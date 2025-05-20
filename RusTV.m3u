@@ -32,9 +32,6 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist
 #EXTINF:-1,4 канал Екатеринбург
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
 
-#EXTINF:-1 ,5 канал
-http://188.191.160.238:9099/channel/5_Kanal.ts
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Развлекательные", 11 канал (Пенза)
 http://85.234.33.64/stream/c11.m3u8
 
@@ -78,9 +75,6 @@ https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
 #EXTINF:-1 tvg-id="piatnica-int" tvg-logo="https://i.imgur.com/N2z3EZC.png" group-title="Развлекательные",Пятница! Int (EDTV)
 https://cdn2.skygo.mn/live/disk1/Friday/HLS-FTA/Friday.m3u8
 
-#EXTINF:-1 tvg-id="Volga.ru",Волга (HD)
-http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Prima.ru",Прима (1080p)
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
 
@@ -96,9 +90,6 @@ http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 
 #EXTINF:-1,Свое ТВ
 http://svoetv.mediacdn.ru/cdn/svoetv/playlist_sdhigh.m3u8
-
-#EXTINF:-1,СТС
-http://188.191.160.238:9099/channel/STS.ts
 
 #EXTINF:-1 tvg-id="",Первый Ярославский
 https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
@@ -138,9 +129,6 @@ https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Pobeda.ru",Победа
 https://streaming.televizor-24-tochka.ru/live/43.m3u8
-
-#EXTINF:-1 tvg-id="Domkino.ru",Дом Кино
-https://streaming.televizor-24-tochka.ru/live/44.m3u8
 
 #EXTINF:-1 tvg-id="StranaFM.ru",Страна ФМ
 https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
