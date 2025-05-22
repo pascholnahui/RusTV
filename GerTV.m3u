@@ -1,6 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="DE: Das Erste" tvg-id="DE: Das Erste" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
+<extras>
+  <channel name="DE: Das Erste">
+    <command>ffmpeg.exe</command>
+    <args>-i https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8 -i https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master-masteraudio1.m3u  -codec copy -f mpegts -</args>
+  </channel>
+</extras>
 #EXTINF:-1 tvg-name="DE: ZDF" tvg-id="DE: ZDF" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="DE: 3sat" tvg-id="DE: 3sat" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png",3sat
