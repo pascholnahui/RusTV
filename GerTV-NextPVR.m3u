@@ -1,11 +1,283 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="DE: ARTE" tvg-id="DE: ARTE" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png",ARTE HD
-https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
-#EXTINF:-1 tvg-name="DE: SR" tvg-id="DE: SR" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/srhd.png",SR Fernsehen HD
-https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
-#EXTINF:-1 tvg-name="DE: Welt der Wunder" tvg-id="DE: Welt der Wunder" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/weltderwunder.png",Welt der Wunder
-https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
-#EXTINF:-1 tvg-name="DE: ANIXE Serie" tvg-id="DE: ANIXE Serie" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/anixehd.png",ANIXE HD
-https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
-#EXTINF:-1 tvg-name="Dokusat" tvg-id="Dokusat.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dokusat.png",Dokusat
-https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
+#EXTINF:0 tvg-name="RTL HD DE" group-title="Германия",RTL HD DE
+http://gr.seetv.cc/play/801/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="RTL UHD" group-title="Германия",RTL UHD
+http://gr.seetv.cc/play/950/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="RTL UP HD" group-title="Германия",RTL UP HD
+http://gr.seetv.cc/play/805/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="RTL UP Austria" group-title="Германия",RTL UP Austria
+http://gr.seetv.cc/play/816/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="RTL Nitro" group-title="Германия",RTL Nitro
+http://gr.seetv.cc/play/848/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="RTL Living HD DE" group-title="Германия",RTL Living HD DE
+http://gr.seetv.cc/play/804/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="RTL Crime HD DE" group-title="Германия",RTL Crime HD DE
+http://gr.seetv.cc/play/860/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="RTL Passion HD" group-title="Германия",RTL Passion HD
+http://gr.seetv.cc/play/1009/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="RTL Zwei HD" group-title="Германия",RTL Zwei HD
+http://gr.seetv.cc/play/1008/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Sky Sport Bundesliga HD" group-title="Германия",Sky Sport Bundesliga HD
+http://gr.seetv.cc/play/836/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="n-tv HD DE" group-title="Германия",n-tv HD DE
+http://gr.seetv.cc/play/802/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="ntv Austria HD" group-title="Германия",ntv Austria HD
+http://gr.seetv.cc/play/724/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Sat.1 HD DE" group-title="Германия",Sat.1 HD DE
+http://gr.seetv.cc/play/806/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="SAT.1 Gold HD" group-title="Германия",SAT.1 Gold HD
+http://gr.seetv.cc/play/940/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Sky Sport Austria HD DE" group-title="Германия",Sky Sport Austria HD DE
+http://gr.seetv.cc/play/5129/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Sky Sports F1 HD" group-title="Германия",Sky Sports F1 HD
+http://gr.seetv.cc/play/9923/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Sky Sport Top Event HD" group-title="Германия",Sky Sport Top Event HD
+http://gr.seetv.cc/play/925/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Sky Sport Golf HD" group-title="Германия",Sky Sport Golf HD
+http://gr.seetv.cc/play/924/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Sky Sport 1 HD DE" group-title="Германия",Sky Sport 1 HD DE
+http://gr.seetv.cc/play/833/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Sky Sport Mix" group-title="Германия",Sky Sport Mix
+http://gr.seetv.cc/play/745/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Sky Sport Tennis HD" group-title="Германия",Sky Sport Tennis HD
+http://gr.seetv.cc/play/916/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Sky Sports News HD" group-title="Германия",Sky Sports News HD
+http://gr.seetv.cc/play/832/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Sky Sport Premier League" group-title="Германия",Sky Sport Premier League
+http://gr.seetv.cc/play/818/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="ORF SPORT+" group-title="Германия",ORF SPORT+
+http://gr.seetv.cc/play/936/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Sport 1 HD" group-title="Германия",Sport 1 HD
+http://gr.seetv.cc/play/976/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="ESports 1" group-title="Германия",ESports 1
+http://gr.seetv.cc/play/856/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Sport 1+" group-title="Германия",Sport 1+
+http://gr.seetv.cc/play/977/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Eurosport 1 HD" group-title="Германия",Eurosport 1 HD
+http://gr.seetv.cc/play/822/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Sportdigital EDGE" group-title="Германия",Sportdigital EDGE
+http://gr.seetv.cc/play/956/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Sportdigital FUSSBALL HD" group-title="Германия",Sportdigital FUSSBALL HD
+http://gr.seetv.cc/play/967/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Sky Replay" group-title="Германия",Sky Replay
+http://gr.seetv.cc/play/5136/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="SAT.1 emotions HD" group-title="Германия",SAT.1 emotions HD
+http://gr.seetv.cc/play/842/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Sky Crime" group-title="Германия",Sky Crime
+http://gr.seetv.cc/play/747/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Sky One HD" group-title="Германия",Sky One HD
+http://gr.seetv.cc/play/5133/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Sky Showcase HD" group-title="Германия",Sky Showcase HD
+http://gr.seetv.cc/play/831/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Sky Nature" group-title="Германия",Sky Nature
+http://gr.seetv.cc/play/748/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Sky Documentaries" group-title="Германия",Sky Documentaries
+http://gr.seetv.cc/play/750/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Sky Krimi HD" group-title="Германия",Sky Krimi HD
+http://gr.seetv.cc/play/5126/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Sky Cinema Premieren HD" group-title="Германия",Sky Cinema Premieren HD
+http://gr.seetv.cc/play/5125/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Sky Cinema Family HD" group-title="Германия",Sky Cinema Family HD
+http://gr.seetv.cc/play/5101/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Sky Cinema Action HD" group-title="Германия",Sky Cinema Action HD
+http://gr.seetv.cc/play/844/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Sky Cinema Classics HD" group-title="Германия",Sky Cinema Classics HD
+http://gr.seetv.cc/play/847/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Sky Cinema Highlights" group-title="Германия",Sky Cinema Highlights
+http://gr.seetv.cc/play/949/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Sky Atlantic HD DE" group-title="Германия",Sky Atlantic HD DE
+http://gr.seetv.cc/play/918/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Comedy Central HD DE" group-title="Германия",Comedy Central HD DE
+http://gr.seetv.cc/play/5138/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Universal TV HD DE" group-title="Германия",Universal TV HD DE
+http://gr.seetv.cc/play/599/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="NOW HD" group-title="Германия",NOW HD
+http://gr.seetv.cc/play/1004/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Syfy HD DE" group-title="Германия",Syfy HD DE
+http://gr.seetv.cc/play/917/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="VOX HD DE" group-title="Германия",VOX HD DE
+http://gr.seetv.cc/play/813/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="VOX Up HD" group-title="Германия",VOX Up HD
+http://gr.seetv.cc/play/1006/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Warner TV Serie HD" group-title="Германия",Warner TV Serie HD
+http://gr.seetv.cc/play/5135/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Warner TV Comedy HD" group-title="Германия",Warner TV Comedy HD
+http://gr.seetv.cc/play/1816/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Warner TV Film HD" group-title="Германия",Warner TV Film HD
+http://gr.seetv.cc/play/821/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="One HD" group-title="Германия",One HD
+http://gr.seetv.cc/play/690/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Phoenix HD" group-title="Германия",Phoenix HD
+http://gr.seetv.cc/play/932/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Geo Television HD" group-title="Германия",Geo Television HD
+http://gr.seetv.cc/play/1005/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Discovery HD DE" group-title="Германия",Discovery HD DE
+http://gr.seetv.cc/play/5140/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="History HD DE" group-title="Германия",History HD DE
+http://gr.seetv.cc/play/5137/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Kabel Eins Doku HD" group-title="Германия",Kabel Eins Doku HD
+http://gr.seetv.cc/play/951/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="TLC HD" group-title="Германия",TLC HD
+http://gr.seetv.cc/play/854/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="One Terra HD" group-title="Германия",One Terra HD
+http://gr.seetv.cc/play/855/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Xplore HD" group-title="Германия",Xplore HD
+http://gr.seetv.cc/play/857/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Toggo HD" group-title="Германия",Toggo HD
+http://gr.seetv.cc/play/829/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Toggo Plus HD" group-title="Германия",Toggo Plus HD
+http://gr.seetv.cc/play/1007/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Nicktoons" group-title="Германия",Nicktoons
+http://gr.seetv.cc/play/681/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Cartoonito" group-title="Германия",Cartoonito
+http://gr.seetv.cc/play/682/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Cartoon Network DE" group-title="Германия",Cartoon Network DE
+http://gr.seetv.cc/play/5104/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Disney HD DE" group-title="Германия",Disney HD DE
+http://gr.seetv.cc/play/819/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Jukebox" group-title="Германия",Jukebox
+http://gr.seetv.cc/play/684/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="13th Street" group-title="Германия",13th Street
+http://gr.seetv.cc/play/683/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Das Erste HD" group-title="Германия",Das Erste HD
+http://gr.seetv.cc/play/695/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="arte HD DE" group-title="Германия",arte HD DE
+http://gr.seetv.cc/play/812/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="ZDFinfo HD" group-title="Германия",ZDFinfo HD
+http://gr.seetv.cc/play/5128/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="ZDFneo HD" group-title="Германия",ZDFneo HD
+http://gr.seetv.cc/play/5127/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="ZDF HD DE" group-title="Германия",ZDF HD DE
+http://gr.seetv.cc/play/811/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="SIXX HD DE" group-title="Германия",SIXX HD DE
+http://gr.seetv.cc/play/810/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Kabel Eins HD" group-title="Германия",Kabel Eins HD
+http://gr.seetv.cc/play/808/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Kabel Eins classic HD" group-title="Германия",Kabel Eins classic HD
+http://gr.seetv.cc/play/597/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="ProSieben HD DE" group-title="Германия",ProSieben HD DE
+http://gr.seetv.cc/play/807/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="ProSieben Maxx HD DE" group-title="Германия",ProSieben Maxx HD DE
+http://gr.seetv.cc/play/817/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="ProSieben Sat.1 UHD" group-title="Германия",ProSieben Sat.1 UHD
+http://gr.seetv.cc/play/852/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="WELT HD DE" group-title="Германия",WELT HD DE
+http://gr.seetv.cc/play/5139/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="NITRO HD" group-title="Германия",NITRO HD
+http://gr.seetv.cc/play/5132/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Romance TV DE" group-title="Германия",Romance TV DE
+http://gr.seetv.cc/play/5131/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="SERIEN + HD" group-title="Германия",SERIEN + HD
+http://gr.seetv.cc/play/853/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Club 3" group-title="Германия",Club 3
+http://gr.seetv.cc/play/5124/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="DMAX HD DE" group-title="Германия",DMAX HD DE
+http://gr.seetv.cc/play/920/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="3 Sat HD DE" group-title="Германия",3 Sat HD DE
+http://gr.seetv.cc/play/919/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="NDR HD DE" group-title="Германия",NDR HD DE
+http://gr.seetv.cc/play/839/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="SWR Fernsehen RP HD" group-title="Германия",SWR Fernsehen RP HD
+http://gr.seetv.cc/play/696/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="HR HD DE" group-title="Германия",HR HD DE
+http://gr.seetv.cc/play/838/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Bibel TV HD" group-title="Германия",Bibel TV HD
+http://gr.seetv.cc/play/947/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="BR HD" group-title="Германия",BR HD
+http://gr.seetv.cc/play/5005/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Aristo TV" group-title="Германия",Aristo TV
+http://gr.seetv.cc/play/946/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Anixe HD DE" group-title="Германия",Anixe HD DE
+http://gr.seetv.cc/play/830/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Motorvision TV DE" group-title="Германия",Motorvision TV DE
+http://gr.seetv.cc/play/828/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="ORF 1 HD " group-title="Германия",ORF 1 HD 
+http://gr.seetv.cc/play/858/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="ORF 2 HD" group-title="Германия",ORF 2 HD
+http://gr.seetv.cc/play/827/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="ORF 2 EUROPE" group-title="Германия",ORF 2 EUROPE
+http://gr.seetv.cc/play/716/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="ORF 3 HD" group-title="Германия",ORF 3 HD
+http://gr.seetv.cc/play/826/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="ORF HITRADIO OE3 VISUAL" group-title="Германия",ORF HITRADIO OE3 VISUAL
+http://gr.seetv.cc/play/717/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="ATV DE" group-title="Германия",ATV DE
+http://gr.seetv.cc/play/825/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="ATV 2 DE" group-title="Германия",ATV 2 DE
+http://gr.seetv.cc/play/987/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="KIKA HD DE" group-title="Германия",KIKA HD DE
+http://gr.seetv.cc/play/823/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="WDR HD Koln" group-title="Германия",WDR HD Koln
+http://gr.seetv.cc/play/815/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Crime Time HD" group-title="Германия",Crime Time HD
+http://gr.seetv.cc/play/840/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Crime + Investigation" group-title="Германия",Crime + Investigation
+http://gr.seetv.cc/play/746/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="QVC HD" group-title="Германия",QVC HD
+http://gr.seetv.cc/play/703/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="QVC ZWEI HD" group-title="Германия",QVC ZWEI HD
+http://gr.seetv.cc/play/706/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="QVC STYLE HD" group-title="Германия",QVC STYLE HD
+http://gr.seetv.cc/play/705/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="DF1 HD" group-title="Германия",DF1 HD
+http://gr.seetv.cc/play/948/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Hohenrausch" group-title="Германия",Hohenrausch
+http://gr.seetv.cc/play/708/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Just Cooking HD" group-title="Германия",Just Cooking HD
+http://gr.seetv.cc/play/927/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Just Fishing HD" group-title="Германия",Just Fishing HD
+http://gr.seetv.cc/play/928/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="ClipMyHorse.TV" group-title="Германия",ClipMyHorse.TV
+http://gr.seetv.cc/play/837/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="RiC NEU" group-title="Германия",RiC NEU
+http://gr.seetv.cc/play/710/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="OTVA HD" group-title="Германия",OTVA HD
+http://gr.seetv.cc/play/698/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Channel21 HD" group-title="Германия",Channel21 HD
+http://gr.seetv.cc/play/715/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="oe24.TV HD" group-title="Германия",oe24.TV HD
+http://gr.seetv.cc/play/725/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Heimatkanal" group-title="Германия",Heimatkanal
+http://gr.seetv.cc/play/744/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="1-2-3.tv HD" group-title="Германия",1-2-3.tv HD
+http://gr.seetv.cc/play/712/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="1-2-3.tv HD2" group-title="Германия",1-2-3.tv HD2
+http://gr.seetv.cc/play/714/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="NIEDERBAYERN TV HD" group-title="Германия",NIEDERBAYERN TV HD
+http://gr.seetv.cc/play/697/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Hope TV" group-title="Германия",Hope TV
+http://gr.seetv.cc/play/720/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="HSE Extra HD" group-title="Германия",HSE Extra HD
+http://gr.seetv.cc/play/721/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Handystar TV HD" group-title="Германия",Handystar TV HD
+http://gr.seetv.cc/play/722/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="TV1 OOE NEU" group-title="Германия",TV1 OOE NEU
+http://gr.seetv.cc/play/727/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="ServusTV HD Oesterreich" group-title="Германия",ServusTV HD Oesterreich
+http://gr.seetv.cc/play/736/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Hip Trips HD" group-title="Германия",Hip Trips HD
+http://gr.seetv.cc/play/723/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="ARD alpha HD" group-title="Германия",ARD alpha HD
+http://gr.seetv.cc/play/691/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="rfo Regional Fernsehen Oberbayern HD" group-title="Германия",rfo Regional Fernsehen Oberbayern HD
+http://gr.seetv.cc/play/699/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="SR Fernsehen HD" group-title="Германия",SR Fernsehen HD
+http://gr.seetv.cc/play/692/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="tagesschau24 HD" group-title="Германия",tagesschau24 HD
+http://gr.seetv.cc/play/694/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="WAIDWERK" group-title="Германия",WAIDWERK
+http://gr.seetv.cc/play/741/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Stimmungsgarten TV" group-title="Германия",Stimmungsgarten TV
+http://gr.seetv.cc/play/738/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="ShopLC HD" group-title="Германия",ShopLC HD
+http://gr.seetv.cc/play/737/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Volksmusik.TV NEU" group-title="Германия",Volksmusik.TV NEU
+http://gr.seetv.cc/play/740/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Melodie TV NEU" group-title="Германия",Melodie TV NEU
+http://gr.seetv.cc/play/935/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="R9 Oesterreich HD" group-title="Германия",R9 Oesterreich HD
+http://gr.seetv.cc/play/707/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="TinyTeen" group-title="Германия",TinyTeen
+http://gr.seetv.cc/play/850/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="LangLab" group-title="Германия",LangLab
+http://gr.seetv.cc/play/851/983F158AABB587A/video.m3u8
