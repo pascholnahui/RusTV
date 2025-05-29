@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U catchup="flussonic" url-tvg="https://ip-tv.dev/epg/epg.xml.gz"
 #EXTINF:0 tvg-id="Xpervy" tvg-name="Первый канал HD" tvg-logo="https://ip-tv.dev/epg/icon/pervyj.png"  tvg-rec="5" timeshift="5", Первый канал HD
 #EXTGRP:Россия
 http://ca.seetv.cc/play/73/983F158AABB587A/video.m3u8
@@ -2862,18 +2862,6 @@ http://ca.seetv.cc/play/923/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xbt-sport3" tvg-name="TNT Sport 3 HD" tvg-logo="https://ip-tv.dev/images/ico/bt-sport3.png" , TNT Sport 3 HD
 #EXTGRP:Спорт
 http://ca.seetv.cc/play/934/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-name="DAZN 1 DE" tvg-logo="https://ip-tv.dev/images/epg/803.png?v1743766104" , DAZN 1 DE
-#EXTGRP:Спорт
-http://ca.seetv.cc/play/803/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-name="DAZN 2 DE" tvg-logo="https://ip-tv.dev/images/epg/809.png?v1743766115" , DAZN 2 DE
-#EXTGRP:Спорт
-http://ca.seetv.cc/play/809/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xno_epg_sport" tvg-name="Movistar Formula 1" tvg-logo="https://ip-tv.dev/images/epg/1121.png?v1743767066" , Movistar Formula 1
-#EXTGRP:Спорт
-http://ca.seetv.cc/play/1121/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xsky-sport-bl1" tvg-name="Sky Sport Bundesliga HD" tvg-logo="https://ip-tv.dev/images/ico/sky-sport-bl1.png" , Sky Sport Bundesliga HD
-#EXTGRP:Спорт
-http://ca.seetv.cc/play/836/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-name="Eurosport 3 HD" tvg-logo="https://ip-tv.dev/images/epg/4091.png?v1743766219" , Eurosport 3 HD
 #EXTGRP:Спорт
 http://ca.seetv.cc/play/4091/983F158AABB587A/video.m3u8
@@ -4284,6 +4272,18 @@ http://ca.seetv.cc/play/832/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="X10880" tvg-name="Sky Sport Premier League" tvg-logo="https://ip-tv.dev/images/epg/818.png?v1743758392"  tvg-rec="5" timeshift="5", Sky Sport Premier League
 #EXTGRP:Германия
 http://ca.seetv.cc/play/818/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="DAZN 1 DE" tvg-logo="https://ip-tv.dev/images/epg/803.png?v1743766104" , DAZN 1 DE
+#EXTGRP:Спорт
+http://ca.seetv.cc/play/803/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="DAZN 2 DE" tvg-logo="https://ip-tv.dev/images/epg/809.png?v1743766115" , DAZN 2 DE
+#EXTGRP:Спорт
+http://ca.seetv.cc/play/809/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xno_epg_sport" tvg-name="Movistar Formula 1" tvg-logo="https://ip-tv.dev/images/epg/1121.png?v1743767066" , Movistar Formula 1
+#EXTGRP:Спорт
+http://ca.seetv.cc/play/1121/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xsky-sport-bl1" tvg-name="Sky Sport Bundesliga HD" tvg-logo="https://ip-tv.dev/images/ico/sky-sport-bl1.png" , Sky Sport Bundesliga HD
+#EXTGRP:Спорт
+http://ca.seetv.cc/play/836/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="X76756" tvg-name="ORF SPORT+" tvg-logo="https://ip-tv.dev/images/epg/936.png?v1743760969"  tvg-rec="5" timeshift="5", ORF SPORT+
 #EXTGRP:Германия
 http://ca.seetv.cc/play/936/983F158AABB587A/video.m3u8
