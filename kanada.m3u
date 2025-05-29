@@ -148,6 +148,9 @@ http://ca.seetv.cc/play/955/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xche" tvg-name="Че!" tvg-logo="https://ip-tv.dev/epg/icon/che.png"  tvg-rec="5" timeshift="5", Че!
 #EXTGRP:Россия
 http://ca.seetv.cc/play/109/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xsarafan" tvg-name="Сарафан" tvg-logo="https://ip-tv.dev/_front/channel/300035.gif"  tvg-rec="5" timeshift="5", Сарафан
+#EXTGRP:Россия
+http://ca.seetv.cc/play/117/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xdoverie" tvg-name="Москва Доверие" tvg-logo="https://ip-tv.dev/epg/icon/doverie.png"  tvg-rec="5" timeshift="5", Москва Доверие
 #EXTGRP:Россия
 http://ca.seetv.cc/play/321/983F158AABB587A/video.m3u8
@@ -3774,9 +3777,6 @@ http://ca.seetv.cc/play/206/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xzhivi" tvg-name="Живи!" tvg-logo="https://ip-tv.dev/epg/icon/zhivi.png" , Живи!
 #EXTGRP:Разное
 http://ca.seetv.cc/play/112/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="Xsarafan" tvg-name="Сарафан" tvg-logo="https://ip-tv.dev/_front/channel/300035.gif"  tvg-rec="5" timeshift="5", Сарафан
-#EXTGRP:Разное
-http://ca.seetv.cc/play/117/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xspas" tvg-name="Телеканал СПАС" tvg-logo="https://ip-tv.dev/_front/channel/222.gif" , Телеканал СПАС
 #EXTGRP:Разное
 http://ca.seetv.cc/play/60/983F158AABB587A/video.m3u8
