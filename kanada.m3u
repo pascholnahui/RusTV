@@ -50,10 +50,10 @@ http://ca.seetv.cc/play/284/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="X5kanal-ru" tvg-name="Пятый Канал" tvg-logo="https://ip-tv.dev/epg/icon/5kanal-ru.png"  tvg-rec="5" timeshift="5", Пятый Канал
 #EXTGRP:Россия
 http://ca.seetv.cc/play/169/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="kultura" tvg-name="Россия-Культура" tvg-logo="https://ip-tv.dev/epg/icon/rossia-k.png"  tvg-rec="5" timeshift="5", Россия-Культура
+#EXTINF:0 tvg-id="Xkultura" tvg-name="Россия-Культура" tvg-logo="https://ip-tv.dev/epg/icon/rossia-k.png"  tvg-rec="5" timeshift="5", Россия-Культура
 #EXTGRP:Россия
 http://ca.seetv.cc/play/59/983F158AABB587A/video.m3u8
-#EXTINF:0 tvg-id="kultura" tvg-name="Россия-Культура" tvg-logo="https://ip-tv.dev/epg/icon/rossia-k.png"  tvg-rec="5" timeshift="5", Россия-Культура HD
+#EXTINF:0 tvg-id="Xkultura" tvg-name="Россия-Культура" tvg-logo="https://ip-tv.dev/epg/icon/rossia-k.png"  tvg-rec="5" timeshift="5", Россия-Культура HD
 #EXTGRP:Россия
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:0 tvg-id="Xdozhd" tvg-name="Дождь" tvg-logo="https://ip-tv.dev/epg/icon/dozhd.png"  tvg-rec="5" timeshift="5", Дождь
@@ -103,6 +103,9 @@ http://ca.seetv.cc/play/298/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xacb-tv" tvg-name="ACB TV" tvg-logo="https://ip-tv.dev/images/ico/acb-tv.png" , ACB TV
 #EXTGRP:Россия
 http://ca.seetv.cc/play/127/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xmir" tvg-name="Мир" tvg-logo="https://ip-tv.dev/epg/icon/mir.png", Мир HD
+#EXTGRP:Россия
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:0 tvg-id="Xmir" tvg-name="Мир" tvg-logo="https://ip-tv.dev/epg/icon/mir.png"  tvg-rec="5" timeshift="5", Мир
 #EXTGRP:Россия
 http://ca.seetv.cc/play/118/983F158AABB587A/video.m3u8
@@ -223,9 +226,6 @@ http://ca.seetv.cc/play/972/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-name="Мой мир", Мой мир
 #EXTGRP:Россия
 http://ca.seetv.cc/play/954/983F158AABB587A/video.m3u8
-#EXTINF:-1 tvg-id="mir" group-title="Эфирные",Мир HD
-#EXTGRP:Россия
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:0 tvg-id="Xpervy-yaroslavsky" tvg-name="Первый Ярославский" tvg-logo="https://ip-tv.dev/images/ico/pervy-yaroslavsky.png" , Первый Ярославский
 #EXTGRP:Россия
 http://ca.seetv.cc/play/5313/983F158AABB587A/video.m3u8
@@ -4273,16 +4273,16 @@ http://ca.seetv.cc/play/832/983F158AABB587A/video.m3u8
 #EXTGRP:Германия
 http://ca.seetv.cc/play/818/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-name="DAZN 1 DE" tvg-logo="https://ip-tv.dev/images/epg/803.png?v1743766104" , DAZN 1 DE
-#EXTGRP:Спорт
+#EXTGRP:Германия
 http://ca.seetv.cc/play/803/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-name="DAZN 2 DE" tvg-logo="https://ip-tv.dev/images/epg/809.png?v1743766115" , DAZN 2 DE
-#EXTGRP:Спорт
+#EXTGRP:Германия
 http://ca.seetv.cc/play/809/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xno_epg_sport" tvg-name="Movistar Formula 1" tvg-logo="https://ip-tv.dev/images/epg/1121.png?v1743767066" , Movistar Formula 1
-#EXTGRP:Спорт
+#EXTGRP:Германия
 http://ca.seetv.cc/play/1121/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="Xsky-sport-bl1" tvg-name="Sky Sport Bundesliga HD" tvg-logo="https://ip-tv.dev/images/ico/sky-sport-bl1.png" , Sky Sport Bundesliga HD
-#EXTGRP:Спорт
+#EXTGRP:Германия
 http://ca.seetv.cc/play/836/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-id="X76756" tvg-name="ORF SPORT+" tvg-logo="https://ip-tv.dev/images/epg/936.png?v1743760969"  tvg-rec="5" timeshift="5", ORF SPORT+
 #EXTGRP:Германия
