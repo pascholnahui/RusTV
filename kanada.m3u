@@ -1,4 +1,4 @@
-#EXTM3U catchup="flussonic" url-tvg="https://ip-tv.dev/epg/epg.xml.gz"
+#EXTM3U catchup="flussonic"
 #EXTINF:0 tvg-id="Xpervy" tvg-name="Первый канал HD" tvg-logo="https://ip-tv.dev/epg/icon/pervyj.png"  tvg-rec="5" timeshift="5", Первый канал HD
 #EXTGRP:Россия
 http://ca.seetv.cc/play/73/983F158AABB587A/video.m3u8
