@@ -1,589 +1,589 @@
-#EXTM3U
-#EXTINF:0 tvg-name="RTL HD DE", RTL HD DE
+#EXTM3U catchup="flussonic"
+#EXTINF:0 tvg-id="X76674" tvg-name="Das Erste HD" tvg-logo="https://ip-tv.dev/images/epg/695.png?v1743759263"  tvg-rec="5" timeshift="5", Das Erste HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/801/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="RTL UHD", RTL UHD
+http://ru.seetv.cc/play/695/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xzdf" tvg-name="ZDF HD DE" tvg-logo="https://ip-tv.dev/images/epg/811.png?v1743761937" , ZDF HD DE
 #EXTGRP:Германия
-http://ru.seetv.cc/play/950/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="RTL UP HD", RTL UP HD
+http://ru.seetv.cc/play/811/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xrtl" tvg-name="RTL HD DE" tvg-logo="https://ip-tv.dev/images/ico/de/rtl-de.png"  tvg-rec="5" timeshift="5", RTL HD DE
 #EXTGRP:Германия
-http://ru.seetv.cc/play/805/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="RTL UP Austria", RTL UP Austria
+http://ru.seetv.cc/play/801/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xsat1" tvg-name="Sat.1 HD DE" tvg-logo="https://ip-tv.dev/images/epg/806.png?v1743758238"  tvg-rec="5" timeshift="5", Sat.1 HD DE
 #EXTGRP:Германия
-http://ru.seetv.cc/play/816/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="RTL Nitro", RTL Nitro
+http://ru.seetv.cc/play/806/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xprosieben" tvg-name="ProSieben HD DE" tvg-logo="https://ip-tv.dev/images/epg/807.png?v1743759465"  tvg-rec="5" timeshift="5", ProSieben HD DE
 #EXTGRP:Германия
-http://ru.seetv.cc/play/848/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="RTL Living HD DE", RTL Living HD DE
+http://ru.seetv.cc/play/807/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76755" tvg-name="RTL Zwei HD" tvg-logo="https://ip-tv.dev/images/ico/de/rtl-zwei-de.png"  tvg-rec="5" timeshift="5", RTL Zwei HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/804/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="RTL Passion HD", RTL Passion HD
+http://ru.seetv.cc/play/1008/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xkabel-1" tvg-name="Kabel Eins HD" tvg-logo="https://ip-tv.dev/epg/icon/kabel-1.png"  tvg-rec="5" timeshift="5", Kabel Eins HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/1009/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="RTL Zwei HD", RTL Zwei HD
+http://ru.seetv.cc/play/808/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76725" tvg-name="Kabel Eins classic HD" tvg-logo="https://ip-tv.dev/images/epg/597.png?v1743759377"  tvg-rec="5" timeshift="5", Kabel Eins classic HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/1008/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="RTL Crime HD DE", RTL Crime HD DE
+http://ru.seetv.cc/play/597/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xprosieben-maxx" tvg-name="ProSieben Maxx HD DE" tvg-logo="https://ip-tv.dev/images/epg/817.png?v1743759455"  tvg-rec="5" timeshift="5", ProSieben Maxx HD DE
 #EXTGRP:Германия
-http://ru.seetv.cc/play/860/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Sky Sport Bundesliga HD", Sky Sport Bundesliga HD
+http://ru.seetv.cc/play/817/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76682" tvg-name="3 Sat HD DE" tvg-logo="https://ip-tv.dev/images/epg/919.png?v1743759806"  tvg-rec="5" timeshift="5", 3 Sat HD DE
 #EXTGRP:Германия
-http://ru.seetv.cc/play/836/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="n-tv HD DE", n-tv HD DE
+http://ru.seetv.cc/play/919/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xarte-hd" tvg-name="arte HD DE" tvg-logo="https://ip-tv.dev/epg/icon/arte-hd.png" , arte HD DE
 #EXTGRP:Германия
-http://ru.seetv.cc/play/802/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="ntv Austria HD", ntv Austria HD
+http://ru.seetv.cc/play/812/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76718" tvg-name="ZDFinfo HD" tvg-logo="https://ip-tv.dev/images/epg/5128.png?v1743759329"  tvg-rec="5" timeshift="5", ZDFinfo HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/724/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Sat.1 HD DE", Sat.1 HD DE
+http://ru.seetv.cc/play/5128/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76739" tvg-name="ZDFneo HD" tvg-logo="https://ip-tv.dev/images/epg/5127.png?v1743759341" , ZDFneo HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/806/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="SAT.1 Gold HD", SAT.1 Gold HD
+http://ru.seetv.cc/play/5127/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76748" tvg-name="NDR HD DE" tvg-logo="https://ip-tv.dev/images/epg/839.png?v1743759646"  tvg-rec="5" timeshift="5", NDR HD DE
 #EXTGRP:Германия
-http://ru.seetv.cc/play/940/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Sky Sport Austria HD DE", Sky Sport Austria HD DE
+http://ru.seetv.cc/play/839/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76648" tvg-name="HR HD DE" tvg-logo="https://ip-tv.dev/images/epg/838.png?v1743759670"  tvg-rec="5" timeshift="5", HR HD DE
 #EXTGRP:Германия
-http://ru.seetv.cc/play/5129/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Sky Sports F1 HD", Sky Sports F1 HD
+http://ru.seetv.cc/play/838/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76693" tvg-name="SWR Fernsehen RP HD" tvg-logo="https://ip-tv.dev/images/epg/696.png?v1743759659"  tvg-rec="5" timeshift="5", SWR Fernsehen RP HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/9923/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Sky Sport Top Event HD", Sky Sport Top Event HD
+http://ru.seetv.cc/play/696/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76625" tvg-name="WELT HD DE" tvg-logo="https://ip-tv.dev/images/epg/5139.png?v1743759476"  tvg-rec="5" timeshift="5", WELT HD DE
 #EXTGRP:Германия
-http://ru.seetv.cc/play/925/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Sky Sport Golf HD", Sky Sport Golf HD
+http://ru.seetv.cc/play/5139/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76787" tvg-name="NITRO HD" tvg-logo="https://ip-tv.dev/images/epg/5132.png?v1743759489"  tvg-rec="5" timeshift="5", NITRO HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/924/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Sky Sport 1 HD DE", Sky Sport 1 HD DE
+http://ru.seetv.cc/play/5132/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xrtl" tvg-name="RTL UHD" tvg-logo="https://ip-tv.dev/images/ico/de/rtl-de.png" , RTL UHD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/833/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Sky Sport Tennis HD", Sky Sport Tennis HD
+http://ru.seetv.cc/play/950/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="ProSieben Sat.1 UHD" tvg-logo="https://ip-tv.dev/images/epg/852.png?v1743761237" , ProSieben Sat.1 UHD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/916/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Sky Sport Mix", Sky Sport Mix
+http://ru.seetv.cc/play/852/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76614" tvg-name="SIXX HD DE" tvg-logo="https://ip-tv.dev/images/epg/810.png?v1743759359"  tvg-rec="5" timeshift="5", SIXX HD DE
 #EXTGRP:Германия
-http://ru.seetv.cc/play/745/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Sky Sports News HD", Sky Sports News HD
+http://ru.seetv.cc/play/810/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76722" tvg-name="RTL UP HD" tvg-logo="https://ip-tv.dev/images/ico/de/rtl-up-de.png"  tvg-rec="5" timeshift="5", RTL UP HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/832/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Sky Sport Premier League", Sky Sport Premier League
+http://ru.seetv.cc/play/805/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="RTL UP Austria" tvg-logo="https://ip-tv.dev/images/epg/816.png?v1743758053" , RTL UP Austria
 #EXTGRP:Германия
-http://ru.seetv.cc/play/818/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="ORF SPORT+", ORF SPORT+
+http://ru.seetv.cc/play/816/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="RTL Nitro" tvg-logo="https://ip-tv.dev/images/epg/848.png?v1743758076"  tvg-rec="5" timeshift="5", RTL Nitro
 #EXTGRP:Германия
-http://ru.seetv.cc/play/936/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Sport 1 HD", Sport 1 HD
+http://ru.seetv.cc/play/848/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76673" tvg-name="RTL Living HD DE" tvg-logo="https://ip-tv.dev/images/epg/804.png?v1743758117"  tvg-rec="5" timeshift="5", RTL Living HD DE
 #EXTGRP:Германия
-http://ru.seetv.cc/play/976/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="ESports 1", ESports 1
+http://ru.seetv.cc/play/804/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76804" tvg-name="RTL Passion HD" tvg-logo="https://ip-tv.dev/images/epg/1009.png?v1743758128"  tvg-rec="5" timeshift="5", RTL Passion HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/856/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Sport 1+", Sport 1+
+http://ru.seetv.cc/play/1009/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76700" tvg-name="RTL Crime HD DE" tvg-logo="https://ip-tv.dev/images/epg/860.png?v1743758158"  tvg-rec="5" timeshift="5", RTL Crime HD DE
 #EXTGRP:Германия
-http://ru.seetv.cc/play/977/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Eurosport 1 HD", Eurosport 1 HD
+http://ru.seetv.cc/play/860/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xsky-sport-bl1" tvg-name="Sky Sport Bundesliga HD" tvg-logo="https://ip-tv.dev/images/ico/sky-sport-bl1.png"  tvg-rec="5" timeshift="5", Sky Sport Bundesliga HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/822/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Sportdigital EDGE", Sportdigital EDGE
+http://ru.seetv.cc/play/836/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76640" tvg-name="n-tv HD DE" tvg-logo="https://ip-tv.dev/images/epg/802.png?v1743758182"  tvg-rec="5" timeshift="5", n-tv HD DE
 #EXTGRP:Германия
-http://ru.seetv.cc/play/956/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Sportdigital FUSSBALL HD", Sportdigital FUSSBALL HD
+http://ru.seetv.cc/play/802/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="ntv Austria HD" tvg-logo="https://ip-tv.dev/images/epg/802.png?v1743758182" , ntv Austria HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/967/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Sky Replay", Sky Replay
+http://ru.seetv.cc/play/724/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76716" tvg-name="SAT.1 Gold HD" tvg-logo="https://ip-tv.dev/images/epg/940.png?v1743758228"  tvg-rec="5" timeshift="5", SAT.1 Gold HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/5136/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="SAT.1 emotions HD", SAT.1 emotions HD
+http://ru.seetv.cc/play/940/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xsky-sport-aus" tvg-name="Sky Sport Austria HD DE" tvg-logo="https://ip-tv.dev/images/epg/5129.png?v1743758276"  tvg-rec="5" timeshift="5", Sky Sport Austria HD DE
 #EXTGRP:Германия
-http://ru.seetv.cc/play/842/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Sky Crime", Sky Crime
+http://ru.seetv.cc/play/5129/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xsky-sports-f1" tvg-name="Sky Sports F1 HD" tvg-logo="https://ip-tv.dev/images/epg/9923.png?v1743758303"  tvg-rec="5" timeshift="5", Sky Sports F1 HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/747/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Sky One HD", Sky One HD
+http://ru.seetv.cc/play/9923/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X10675" tvg-name="Sky Sport Top Event HD" tvg-logo="https://ip-tv.dev/images/epg/925.png?v1743760891" , Sky Sport Top Event HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/5133/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Sky Showcase HD", Sky Showcase HD
+http://ru.seetv.cc/play/925/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xsky-sports-golf" tvg-name="Sky Sport Golf HD" tvg-logo="https://ip-tv.dev/images/ico/sky-sports-golf.png"  tvg-rec="5" timeshift="5", Sky Sport Golf HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/831/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Sky Nature", Sky Nature
+http://ru.seetv.cc/play/924/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xsky-sport-hd1" tvg-name="Sky Sport 1 HD DE" tvg-logo="https://ip-tv.dev/images/ico/sky-sport-hd1.png"  tvg-rec="5" timeshift="5", Sky Sport 1 HD DE
 #EXTGRP:Германия
-http://ru.seetv.cc/play/748/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Sky Documentaries", Sky Documentaries
+http://ru.seetv.cc/play/833/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X10634" tvg-name="Sky Sport Tennis HD" tvg-logo="https://ip-tv.dev/images/epg/916.png?v1743758380"  tvg-rec="5" timeshift="5", Sky Sport Tennis HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/750/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Sky Krimi HD", Sky Krimi HD
+http://ru.seetv.cc/play/916/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X10785" tvg-name="Sky Sport Mix" tvg-logo="https://ip-tv.dev/images/epg/745.png?v1743758367" , Sky Sport Mix
 #EXTGRP:Германия
-http://ru.seetv.cc/play/5126/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Sky Cinema Premieren HD", Sky Cinema Premieren HD
+http://ru.seetv.cc/play/745/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xsky-sport-news" tvg-name="Sky Sports News HD" tvg-logo="https://ip-tv.dev/images/ico/sky-sports-news.png"  tvg-rec="5" timeshift="5", Sky Sports News HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/5125/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Sky Cinema Family HD", Sky Cinema Family HD
+http://ru.seetv.cc/play/832/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X10880" tvg-name="Sky Sport Premier League" tvg-logo="https://ip-tv.dev/images/epg/818.png?v1743758392"  tvg-rec="5" timeshift="5", Sky Sport Premier League
 #EXTGRP:Германия
-http://ru.seetv.cc/play/5101/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Sky Cinema Action HD", Sky Cinema Action HD
+http://ru.seetv.cc/play/818/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76756" tvg-name="ORF SPORT+" tvg-logo="https://ip-tv.dev/images/epg/936.png?v1743760969"  tvg-rec="5" timeshift="5", ORF SPORT+
 #EXTGRP:Германия
-http://ru.seetv.cc/play/844/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Sky Cinema Classics HD", Sky Cinema Classics HD
+http://ru.seetv.cc/play/936/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X401577" tvg-name="Sport 1 HD" tvg-logo="https://ip-tv.dev/images/epg/976.png?v1743758438"  tvg-rec="5" timeshift="5", Sport 1 HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/847/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Sky Cinema Highlights", Sky Cinema Highlights
+http://ru.seetv.cc/play/976/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="XeSports1.de" tvg-name="ESports 1" tvg-logo="https://ip-tv.dev/images/epg/856.png?v1743758424"  tvg-rec="5" timeshift="5", ESports 1
 #EXTGRP:Германия
-http://ru.seetv.cc/play/949/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Sky Atlantic HD DE", Sky Atlantic HD DE
+http://ru.seetv.cc/play/856/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="XSPORT1+.de" tvg-name="Sport 1+" tvg-logo="https://ip-tv.dev/images/epg/977.png?v1743758448"  tvg-rec="5" timeshift="5", Sport 1+
 #EXTGRP:Германия
-http://ru.seetv.cc/play/918/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Comedy Central HD DE", Comedy Central HD DE
+http://ru.seetv.cc/play/977/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76619" tvg-name="Eurosport 1 HD" tvg-logo="https://ip-tv.dev/images/epg/822.png?v1743758461"  tvg-rec="5" timeshift="5", Eurosport 1 HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/5138/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Universal TV HD DE", Universal TV HD DE
+http://ru.seetv.cc/play/822/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76705" tvg-name="Sportdigital EDGE" tvg-logo="https://ip-tv.dev/images/epg/956.png?v1743758515"  tvg-rec="5" timeshift="5", Sportdigital EDGE
 #EXTGRP:Германия
-http://ru.seetv.cc/play/599/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="NOW HD", NOW HD
+http://ru.seetv.cc/play/956/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Sportdigital FUSSBALL HD" tvg-logo="https://ip-tv.dev/images/epg/967.png?v1743758479" , Sportdigital FUSSBALL HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/1004/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Syfy HD DE", Syfy HD DE
+http://ru.seetv.cc/play/967/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X10635" tvg-name="Sky Replay" tvg-logo="https://ip-tv.dev/images/epg/5136.png?v1743758530"  tvg-rec="5" timeshift="5", Sky Replay
 #EXTGRP:Германия
-http://ru.seetv.cc/play/917/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="VOX HD DE", VOX HD DE
+http://ru.seetv.cc/play/5136/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xtnt-serie-de" tvg-name="SAT.1 emotions HD" tvg-logo="https://ip-tv.dev/images/epg/842.png?v1743758558"  tvg-rec="5" timeshift="5", SAT.1 emotions HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/813/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="VOX Up HD", VOX Up HD
+http://ru.seetv.cc/play/842/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X10908" tvg-name="Sky Crime" tvg-logo="https://ip-tv.dev/images/epg/747.png?v1743758547"  tvg-rec="5" timeshift="5", Sky Crime
 #EXTGRP:Германия
-http://ru.seetv.cc/play/1006/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Warner TV Serie HD", Warner TV Serie HD
+http://ru.seetv.cc/play/747/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X401732" tvg-name="Sky One HD" tvg-logo="https://ip-tv.dev/images/epg/5133.png?v1743758569"  tvg-rec="5" timeshift="5", Sky One HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/5135/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Warner TV Comedy HD", Warner TV Comedy HD
+http://ru.seetv.cc/play/5133/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X10918" tvg-name="Sky Showcase HD" tvg-logo="https://ip-tv.dev/images/epg/831.png?v1743760999"  tvg-rec="5" timeshift="5", Sky Showcase HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/1816/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Warner TV Film HD", Warner TV Film HD
+http://ru.seetv.cc/play/831/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X10640" tvg-name="Sky Nature" tvg-logo="https://ip-tv.dev/images/epg/748.png?v1743758587"  tvg-rec="5" timeshift="5", Sky Nature
 #EXTGRP:Германия
-http://ru.seetv.cc/play/821/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="One HD", One HD
+http://ru.seetv.cc/play/748/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X10620" tvg-name="Sky Documentaries" tvg-logo="https://ip-tv.dev/images/epg/750.png?v1743758578"  tvg-rec="5" timeshift="5", Sky Documentaries
 #EXTGRP:Германия
-http://ru.seetv.cc/play/690/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Phoenix HD", Phoenix HD
+http://ru.seetv.cc/play/750/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76663" tvg-name="Sky Krimi HD" tvg-logo="https://ip-tv.dev/images/epg/5126.png?v1743758613"  tvg-rec="5" timeshift="5", Sky Krimi HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/932/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Geo Television HD", Geo Television HD
+http://ru.seetv.cc/play/5126/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xsky-cinema-premieren" tvg-name="Sky Cinema Premieren HD" tvg-logo="https://ip-tv.dev/images/epg/5125.png?v1743758627"  tvg-rec="5" timeshift="5", Sky Cinema Premieren HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/1005/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Discovery HD DE", Discovery HD DE
+http://ru.seetv.cc/play/5125/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xsky-cinema-family" tvg-name="Sky Cinema Family HD" tvg-logo="https://ip-tv.dev/images/ico/sky-cinema-family.png"  tvg-rec="5" timeshift="5", Sky Cinema Family HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/5140/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="History HD DE", History HD DE
+http://ru.seetv.cc/play/5101/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xsky-cinema-action" tvg-name="Sky Cinema Action HD" tvg-logo="https://ip-tv.dev/images/ico/sky-cinema-action.png"  tvg-rec="5" timeshift="5", Sky Cinema Action HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/5137/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Kabel Eins Doku HD", Kabel Eins Doku HD
+http://ru.seetv.cc/play/844/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xsky-cinema" tvg-name="Sky Cinema Classics HD" tvg-logo="https://ip-tv.dev/images/ico/sky-cinema-classics.png"  tvg-rec="5" timeshift="5", Sky Cinema Classics HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/951/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="TLC HD", TLC HD
+http://ru.seetv.cc/play/847/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X321554" tvg-name="Sky Cinema Highlights" tvg-logo="https://ip-tv.dev/images/epg/949.png?v1743758674"  tvg-rec="5" timeshift="5", Sky Cinema Highlights
 #EXTGRP:Германия
-http://ru.seetv.cc/play/854/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="One Terra HD", One Terra HD
+http://ru.seetv.cc/play/949/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xsky-atlantic" tvg-name="Sky Atlantic HD DE" tvg-logo="https://ip-tv.dev/images/epg/918.png?v1743758700"  tvg-rec="5" timeshift="5", Sky Atlantic HD DE
 #EXTGRP:Германия
-http://ru.seetv.cc/play/855/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Xplore HD", Xplore HD
+http://ru.seetv.cc/play/918/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76742" tvg-name="Comedy Central HD DE" tvg-logo="https://ip-tv.dev/images/epg/5138.png?v1743758710"  tvg-rec="5" timeshift="5", Comedy Central HD DE
 #EXTGRP:Германия
-http://ru.seetv.cc/play/857/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Toggo HD", Toggo HD
+http://ru.seetv.cc/play/5138/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76662" tvg-name="Universal TV HD DE" tvg-logo="https://ip-tv.dev/images/epg/599.png?v1743758734"  tvg-rec="5" timeshift="5", Universal TV HD DE
 #EXTGRP:Германия
-http://ru.seetv.cc/play/829/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Toggo Plus HD", Toggo Plus HD
+http://ru.seetv.cc/play/599/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76694" tvg-name="NOW HD" tvg-logo="https://ip-tv.dev/images/epg/1004.jpg?v1743761066"  tvg-rec="5" timeshift="5", NOW HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/1007/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Nicktoons", Nicktoons
+http://ru.seetv.cc/play/1004/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="XSyfy.de" tvg-name="Syfy HD DE" tvg-logo="https://ip-tv.dev/images/epg/917.png?v1743758759"  tvg-rec="5" timeshift="5", Syfy HD DE
 #EXTGRP:Германия
-http://ru.seetv.cc/play/681/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Cartoonito", Cartoonito
+http://ru.seetv.cc/play/917/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xvox" tvg-name="VOX HD DE" tvg-logo="https://ip-tv.dev/images/epg/813.png?v1743758768"  tvg-rec="5" timeshift="5", VOX HD DE
 #EXTGRP:Германия
-http://ru.seetv.cc/play/682/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Cartoon Network DE", Cartoon Network DE
+http://ru.seetv.cc/play/813/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="XVOXup.de" tvg-name="VOX Up HD" tvg-logo="https://ip-tv.dev/images/epg/1006.png?v1743758779"  tvg-rec="5" timeshift="5", VOX Up HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/5104/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Disney HD DE", Disney HD DE
+http://ru.seetv.cc/play/1006/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76806" tvg-name="Warner TV Serie HD" tvg-logo="https://ip-tv.dev/images/epg/5135.png?v1743758790"  tvg-rec="5" timeshift="5", Warner TV Serie HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/819/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Jukebox", Jukebox
+http://ru.seetv.cc/play/5135/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76679" tvg-name="Warner TV Comedy HD" tvg-logo="https://ip-tv.dev/images/epg/5006.png?v1743758801"  tvg-rec="5" timeshift="5", Warner TV Comedy HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/684/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="13th Street", 13th Street
+http://ru.seetv.cc/play/1816/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76645" tvg-name="Warner TV Film HD" tvg-logo="https://ip-tv.dev/images/epg/821.png?v1743758815"  tvg-rec="5" timeshift="5", Warner TV Film HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/683/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="arte HD DE", arte HD DE
+http://ru.seetv.cc/play/821/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76738" tvg-name="One HD" tvg-logo="https://ip-tv.dev/images/epg/690.png?v1743759021"  tvg-rec="5" timeshift="5", One HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/812/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Das Erste HD", Das Erste HD
+http://ru.seetv.cc/play/690/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76649" tvg-name="Phoenix HD" tvg-logo="https://ip-tv.dev/images/epg/932.png?v1743759029"  tvg-rec="5" timeshift="5", Phoenix HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/695/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="ZDFinfo HD", ZDFinfo HD
+http://ru.seetv.cc/play/932/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76800" tvg-name="Geo Television HD" tvg-logo="https://ip-tv.dev/images/epg/1005.png?v1743759039" , Geo Television HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/5128/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="ZDFneo HD", ZDFneo HD
+http://ru.seetv.cc/play/1005/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76686" tvg-name="Discovery HD DE" tvg-logo="https://ip-tv.dev/images/epg/5140.png?v1743759050"  tvg-rec="5" timeshift="5", Discovery HD DE
 #EXTGRP:Германия
-http://ru.seetv.cc/play/5127/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="ZDF HD DE", ZDF HD DE
+http://ru.seetv.cc/play/5140/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76634" tvg-name="History HD DE" tvg-logo="https://ip-tv.dev/images/epg/5137.png?v1743759086"  tvg-rec="5" timeshift="5", History HD DE
 #EXTGRP:Германия
-http://ru.seetv.cc/play/811/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="SIXX HD DE", SIXX HD DE
+http://ru.seetv.cc/play/5137/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76715" tvg-name="Kabel Eins Doku HD" tvg-logo="https://ip-tv.dev/images/epg/951.png?v1743759133"  tvg-rec="5" timeshift="5", Kabel Eins Doku HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/810/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Kabel Eins HD", Kabel Eins HD
+http://ru.seetv.cc/play/951/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76699" tvg-name="TLC HD" tvg-logo="https://ip-tv.dev/images/epg/854.png?v1743759121"  tvg-rec="5" timeshift="5", TLC HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/808/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Kabel Eins classic HD", Kabel Eins classic HD
+http://ru.seetv.cc/play/854/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="One Terra HD" tvg-logo="https://ip-tv.dev/images/epg/855.png?v1743761114" , One Terra HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/597/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="ProSieben HD DE", ProSieben HD DE
+http://ru.seetv.cc/play/855/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Xplore HD" tvg-logo="https://ip-tv.dev/images/epg/857.png?v1743761165" , Xplore HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/807/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="ProSieben Maxx HD DE", ProSieben Maxx HD DE
+http://ru.seetv.cc/play/857/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76767" tvg-name="Toggo HD" tvg-logo="https://ip-tv.dev/images/epg/829.png?v1743760929"  tvg-rec="5" timeshift="5", Toggo HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/817/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="ProSieben Sat.1 UHD", ProSieben Sat.1 UHD
+http://ru.seetv.cc/play/829/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76789" tvg-name="Toggo Plus HD" tvg-logo="https://ip-tv.dev/images/epg/1007.png?v1743759151"  tvg-rec="5" timeshift="5", Toggo Plus HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/852/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="WELT HD DE", WELT HD DE
+http://ru.seetv.cc/play/1007/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76736" tvg-name="Nicktoons" tvg-logo="https://ip-tv.dev/images/epg/681.png?v1743759183"  tvg-rec="5" timeshift="5", Nicktoons
 #EXTGRP:Германия
-http://ru.seetv.cc/play/5139/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="NITRO HD", NITRO HD
+http://ru.seetv.cc/play/681/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X197540" tvg-name="Cartoonito" tvg-logo="https://ip-tv.dev/images/epg/682.png?v1743759164"  tvg-rec="5" timeshift="5", Cartoonito
 #EXTGRP:Германия
-http://ru.seetv.cc/play/5132/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Romance TV DE", Romance TV DE
+http://ru.seetv.cc/play/682/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76763" tvg-name="Cartoon Network DE" tvg-logo="https://ip-tv.dev/images/epg/5104.png?v1743759200"  tvg-rec="5" timeshift="5", Cartoon Network DE
 #EXTGRP:Германия
-http://ru.seetv.cc/play/5131/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="SERIEN + HD", SERIEN + HD
+http://ru.seetv.cc/play/5104/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76786" tvg-name="Disney HD DE" tvg-logo="https://ip-tv.dev/images/epg/819.png?v1743759238"  tvg-rec="5" timeshift="5", Disney HD DE
 #EXTGRP:Германия
-http://ru.seetv.cc/play/853/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="tagesschau24 HD", tagesschau24 HD
+http://ru.seetv.cc/play/819/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76615" tvg-name="Jukebox" tvg-logo="https://ip-tv.dev/images/epg/684.png?v1743759210"  tvg-rec="5" timeshift="5", Jukebox
 #EXTGRP:Германия
-http://ru.seetv.cc/play/694/983F158AABB587A/mpegts
+http://ru.seetv.cc/play/684/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76766" tvg-name="13th Street" tvg-logo="https://ip-tv.dev/images/epg/683.png?v1743759249"  tvg-rec="5" timeshift="5", 13th Street
+#EXTGRP:Германия
+http://ru.seetv.cc/play/683/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76624" tvg-name="Romance TV DE" tvg-logo="https://ip-tv.dev/images/epg/5131.png?v1743759550"  tvg-rec="5" timeshift="5", Romance TV DE
+#EXTGRP:Германия
+http://ru.seetv.cc/play/5131/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="SERIEN + HD" tvg-logo="https://ip-tv.dev/images/epg/853.png?v1743761303" , SERIEN + HD
+#EXTGRP:Германия
+http://ru.seetv.cc/play/853/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-name="Club 3", Club 3
 #EXTGRP:Германия
-http://ru.seetv.cc/play/5124/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="DMAX HD DE", DMAX HD DE
+http://ru.seetv.cc/play/5124/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76692" tvg-name="DMAX HD DE" tvg-logo="https://ip-tv.dev/images/epg/920.png?v1743759568"  tvg-rec="5" timeshift="5", DMAX HD DE
 #EXTGRP:Германия
-http://ru.seetv.cc/play/920/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="3 Sat HD DE", 3 Sat HD DE
+http://ru.seetv.cc/play/920/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76794" tvg-name="Bibel TV HD" tvg-logo="https://ip-tv.dev/images/epg/947.png?v1743759682"  tvg-rec="5" timeshift="5", Bibel TV HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/919/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="NDR HD DE", NDR HD DE
+http://ru.seetv.cc/play/947/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76712" tvg-name="BR HD" tvg-logo="https://ip-tv.dev/images/epg/5005.png?v1743759708"  tvg-rec="5" timeshift="5", BR HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/839/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="HR HD DE", HR HD DE
+http://ru.seetv.cc/play/5005/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Aristo TV" tvg-logo="https://ip-tv.dev/images/epg/946.png?v1743761361" , Aristo TV
 #EXTGRP:Германия
-http://ru.seetv.cc/play/838/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="SWR Fernsehen RP HD", SWR Fernsehen RP HD
+http://ru.seetv.cc/play/946/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76745" tvg-name="Anixe HD DE" tvg-logo="https://ip-tv.dev/images/epg/830.png?v1743759758"  tvg-rec="5" timeshift="5", Anixe HD DE
 #EXTGRP:Германия
-http://ru.seetv.cc/play/696/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Bibel TV HD", Bibel TV HD
+http://ru.seetv.cc/play/830/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76630" tvg-name="Motorvision TV DE" tvg-logo="https://ip-tv.dev/images/epg/828.png?v1743759768"  tvg-rec="5" timeshift="5", Motorvision TV DE
 #EXTGRP:Германия
-http://ru.seetv.cc/play/947/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="BR HD", BR HD
+http://ru.seetv.cc/play/828/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76706" tvg-name="ORF 1 HD " tvg-logo="https://ip-tv.dev/images/epg/858.png?v1743759785" , ORF 1 HD 
 #EXTGRP:Германия
-http://ru.seetv.cc/play/5005/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Aristo TV", Aristo TV
+http://ru.seetv.cc/play/858/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76616" tvg-name="ORF 2 HD" tvg-logo="https://ip-tv.dev/images/epg/827.png?v1743761403"  tvg-rec="5" timeshift="5", ORF 2 HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/946/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Anixe HD DE", Anixe HD DE
+http://ru.seetv.cc/play/827/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="ORF 2 EUROPE" tvg-logo="https://ip-tv.dev/images/epg/716.png?v1743761395" , ORF 2 EUROPE
 #EXTGRP:Германия
-http://ru.seetv.cc/play/830/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Motorvision TV DE", Motorvision TV DE
+http://ru.seetv.cc/play/716/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76734" tvg-name="ORF 3 HD" tvg-logo="https://ip-tv.dev/images/epg/826.png?v1743761432"  tvg-rec="5" timeshift="5", ORF 3 HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/828/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="ORF 1 HD ", ORF 1 HD 
+http://ru.seetv.cc/play/826/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="ORF HITRADIO OE3 VISUAL" tvg-logo="https://ip-tv.dev/images/epg/717.png?v1743761485" , ORF HITRADIO OE3 VISUAL
 #EXTGRP:Германия
-http://ru.seetv.cc/play/858/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="ORF 2 HD", ORF 2 HD
+http://ru.seetv.cc/play/717/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76810" tvg-name="ATV DE" tvg-logo="https://ip-tv.dev/images/epg/825.png?v1743761514"  tvg-rec="5" timeshift="5", ATV DE
 #EXTGRP:Германия
-http://ru.seetv.cc/play/827/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="ORF 2 EUROPE", ORF 2 EUROPE
+http://ru.seetv.cc/play/825/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76638" tvg-name="ATV 2 DE" tvg-logo="https://ip-tv.dev/images/epg/987.png?v1743761538"  tvg-rec="5" timeshift="5", ATV 2 DE
 #EXTGRP:Германия
-http://ru.seetv.cc/play/716/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="ORF 3 HD", ORF 3 HD
+http://ru.seetv.cc/play/987/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76680" tvg-name="KIKA HD DE" tvg-logo="https://ip-tv.dev/images/epg/823.png?v1743759840"  tvg-rec="5" timeshift="5", KIKA HD DE
 #EXTGRP:Германия
-http://ru.seetv.cc/play/826/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="ORF HITRADIO OE3 VISUAL", ORF HITRADIO OE3 VISUAL
+http://ru.seetv.cc/play/823/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76684" tvg-name="WDR HD Koln" tvg-logo="https://ip-tv.dev/images/epg/815.png?v1743759851"  tvg-rec="5" timeshift="5", WDR HD Koln
 #EXTGRP:Германия
-http://ru.seetv.cc/play/717/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="ATV DE", ATV DE
+http://ru.seetv.cc/play/815/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="tagesschau24 HD" tvg-logo="https://ip-tv.dev/images/epg/694.png?v1743760146" , tagesschau24 HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/825/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="ATV 2 DE", ATV 2 DE
+http://ru.seetv.cc/play/694/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="ServusTV HD Oesterreich" tvg-logo="https://ip-tv.dev/images/epg/736.png?v1743760096" , ServusTV HD Oesterreich
 #EXTGRP:Германия
-http://ru.seetv.cc/play/987/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="KIKA HD DE", KIKA HD DE
+http://ru.seetv.cc/play/736/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Hip Trips HD" tvg-logo="https://ip-tv.dev/images/epg/723.png?v1743762257" , Hip Trips HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/823/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="WDR HD Koln", WDR HD Koln
+http://ru.seetv.cc/play/723/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="ARD alpha HD" tvg-logo="https://ip-tv.dev/images/epg/691.png?v1743760115" , ARD alpha HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/815/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Crime Time HD", Crime Time HD
+http://ru.seetv.cc/play/691/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="SR Fernsehen HD" tvg-logo="https://ip-tv.dev/images/epg/692.png?v1743760131" , SR Fernsehen HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/840/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Crime + Investigation", Crime + Investigation
+http://ru.seetv.cc/play/692/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="rfo Regional Fernsehen Oberbayern HD" tvg-logo="https://ip-tv.dev/images/epg/699.png?v1743762291" , rfo Regional Fernsehen Oberbayern HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/746/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="QVC HD", QVC HD
+http://ru.seetv.cc/play/699/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="WAIDWERK" tvg-logo="https://ip-tv.dev/images/epg/741.png?v1743762325" , WAIDWERK
 #EXTGRP:Германия
-http://ru.seetv.cc/play/703/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="QVC ZWEI HD", QVC ZWEI HD
+http://ru.seetv.cc/play/741/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Stimmungsgarten TV" tvg-logo="https://ip-tv.dev/images/epg/738.jpg?v1743762351" , Stimmungsgarten TV
 #EXTGRP:Германия
-http://ru.seetv.cc/play/706/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="QVC STYLE HD", QVC STYLE HD
+http://ru.seetv.cc/play/738/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Crime Time HD" tvg-logo="https://ip-tv.dev/images/epg/840.png?v1743761586" , Crime Time HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/705/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="DF1 HD", DF1 HD
+http://ru.seetv.cc/play/840/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76667" tvg-name="Crime + Investigation" tvg-logo="https://ip-tv.dev/images/epg/746.png?v1743759864"  tvg-rec="5" timeshift="5", Crime + Investigation
 #EXTGRP:Германия
-http://ru.seetv.cc/play/948/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Hohenrausch", Hohenrausch
+http://ru.seetv.cc/play/746/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76697" tvg-name="QVC HD" tvg-logo="https://ip-tv.dev/images/epg/703.png?v1743759885" , QVC HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/708/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Just Cooking HD", Just Cooking HD
+http://ru.seetv.cc/play/703/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76618" tvg-name="QVC ZWEI HD" tvg-logo="https://ip-tv.dev/images/epg/706.png?v1743759913" , QVC ZWEI HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/927/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Just Fishing HD", Just Fishing HD
+http://ru.seetv.cc/play/706/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="QVC STYLE HD" tvg-logo="https://ip-tv.dev/images/epg/705.png?v1743759923" , QVC STYLE HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/928/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="ClipMyHorse.TV", ClipMyHorse.TV
+http://ru.seetv.cc/play/705/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X182674" tvg-name="DF1 HD" tvg-logo="https://ip-tv.dev/images/epg/948.png?v1743761637"  tvg-rec="5" timeshift="5", DF1 HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/837/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="RiC NEU", RiC NEU
+http://ru.seetv.cc/play/948/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Hohenrausch" tvg-logo="https://ip-tv.dev/images/epg/708.png?v1743761851" , Hohenrausch
 #EXTGRP:Германия
-http://ru.seetv.cc/play/710/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Channel21 HD", Channel21 HD
+http://ru.seetv.cc/play/708/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Just Cooking HD" tvg-logo="https://ip-tv.dev/images/epg/927.png?v1743761663" , Just Cooking HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/715/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="oe24.TV HD", oe24.TV HD
+http://ru.seetv.cc/play/927/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Just Fishing HD" tvg-logo="https://ip-tv.dev/images/epg/928.png?v1743761702" , Just Fishing HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/725/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Heimatkanal", Heimatkanal
+http://ru.seetv.cc/play/928/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="ClipMyHorse.TV" tvg-logo="https://ip-tv.dev/images/epg/837.png?v1743761729" , ClipMyHorse.TV
 #EXTGRP:Германия
-http://ru.seetv.cc/play/744/983F158AABB587A/mpegts
+http://ru.seetv.cc/play/837/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76731" tvg-name="RiC NEU" tvg-logo="https://ip-tv.dev/images/epg/710.png?v1743759960" , RiC NEU
+#EXTGRP:Германия
+http://ru.seetv.cc/play/710/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X405758" tvg-name="Channel21 HD" tvg-logo="https://ip-tv.dev/images/epg/715.png?v1743760011" , Channel21 HD
+#EXTGRP:Германия
+http://ru.seetv.cc/play/715/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X100304" tvg-name="oe24.TV HD" tvg-logo="https://ip-tv.dev/images/epg/725.png?v1743762015" , oe24.TV HD
+#EXTGRP:Германия
+http://ru.seetv.cc/play/725/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76675" tvg-name="Heimatkanal" tvg-logo="https://ip-tv.dev/images/epg/744.png?v1743759989" , Heimatkanal
+#EXTGRP:Германия
+http://ru.seetv.cc/play/744/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-name="OTVA HD", OTVA HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/698/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="1-2-3.tv HD", 1-2-3.tv HD
+http://ru.seetv.cc/play/698/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X123.tv.de" tvg-name="1-2-3.tv HD" tvg-logo="https://ip-tv.dev/images/epg/712.png?v1743760024" , 1-2-3.tv HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/712/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="1-2-3.tv HD2", 1-2-3.tv HD2
+http://ru.seetv.cc/play/712/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="1-2-3.tv HD2" tvg-logo="https://ip-tv.dev/images/epg/712.png?v1743760024" , 1-2-3.tv HD2
 #EXTGRP:Германия
-http://ru.seetv.cc/play/714/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="NIEDERBAYERN TV HD", NIEDERBAYERN TV HD
+http://ru.seetv.cc/play/714/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="NIEDERBAYERN TV HD" tvg-logo="https://ip-tv.dev/images/epg/697.png?v1743762104" , NIEDERBAYERN TV HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/697/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Hope TV", Hope TV
+http://ru.seetv.cc/play/697/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Hope TV" tvg-logo="https://ip-tv.dev/images/epg/720.png?v1743762156" , Hope TV
 #EXTGRP:Германия
-http://ru.seetv.cc/play/720/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="HSE Extra HD", HSE Extra HD
+http://ru.seetv.cc/play/720/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X76737" tvg-name="HSE Extra HD" tvg-logo="https://ip-tv.dev/images/epg/721.png?v1743760055" , HSE Extra HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/721/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Handystar TV HD", Handystar TV HD
+http://ru.seetv.cc/play/721/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Handystar TV HD" tvg-logo="https://ip-tv.dev/images/epg/722.png?v1743762208" , Handystar TV HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/722/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="TV1 OOE NEU", TV1 OOE NEU
+http://ru.seetv.cc/play/722/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="TV1 OOE NEU" tvg-logo="https://ip-tv.dev/images/epg/727.png?v1743762231" , TV1 OOE NEU
 #EXTGRP:Германия
-http://ru.seetv.cc/play/727/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="ServusTV HD Oesterreich", ServusTV HD Oesterreich
+http://ru.seetv.cc/play/727/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="ShopLC HD" tvg-logo="https://ip-tv.dev/images/epg/737.png?v1743760183" , ShopLC HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/736/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Hip Trips HD", Hip Trips HD
+http://ru.seetv.cc/play/737/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Volksmusik.TV NEU" tvg-logo="https://ip-tv.dev/images/epg/740.png?v1743760198" , Volksmusik.TV NEU
 #EXTGRP:Германия
-http://ru.seetv.cc/play/723/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="ARD alpha HD", ARD alpha HD
+http://ru.seetv.cc/play/740/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Melodie TV NEU" tvg-logo="https://ip-tv.dev/images/epg/935.jpg?v1743762421" , Melodie TV NEU
 #EXTGRP:Германия
-http://ru.seetv.cc/play/691/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="SR Fernsehen HD", SR Fernsehen HD
+http://ru.seetv.cc/play/935/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="R9 Oesterreich HD" tvg-logo="https://ip-tv.dev/images/epg/707.jpg?v1743762394" , R9 Oesterreich HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/692/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="rfo Regional Fernsehen Oberbayern HD", rfo Regional Fernsehen Oberbayern HD
+http://ru.seetv.cc/play/707/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="LangLab" tvg-logo="https://ip-tv.dev/images/epg/851.png?v1743762495" , LangLab
 #EXTGRP:Германия
-http://ru.seetv.cc/play/699/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="WAIDWERK", WAIDWERK
-#EXTGRP:Германия
-http://ru.seetv.cc/play/741/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Stimmungsgarten TV", Stimmungsgarten TV
-#EXTGRP:Германия
-http://ru.seetv.cc/play/738/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="ShopLC HD", ShopLC HD
-#EXTGRP:Германия
-http://ru.seetv.cc/play/737/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Volksmusik.TV NEU", Volksmusik.TV NEU
-#EXTGRP:Германия
-http://ru.seetv.cc/play/740/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Melodie TV NEU", Melodie TV NEU
-#EXTGRP:Германия
-http://ru.seetv.cc/play/935/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="R9 Oesterreich HD", R9 Oesterreich HD
-#EXTGRP:Германия
-http://ru.seetv.cc/play/707/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="LangLab", LangLab
-#EXTGRP:Германия
-http://ru.seetv.cc/play/851/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Cartoon Network", Cartoon Network
+http://ru.seetv.cc/play/851/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="DAZN 1 DE" tvg-logo="https://ip-tv.dev/images/epg/803.png?v1743766104" , DAZN 1 DE
+#EXTGRP:Спорт
+http://ru.seetv.cc/play/803/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="DAZN 2 DE" tvg-logo="https://ip-tv.dev/images/epg/809.png?v1743766115" , DAZN 2 DE
+#EXTGRP:Спорт
+http://ru.seetv.cc/play/809/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xno_epg_sport" tvg-name="Movistar Formula 1" tvg-logo="https://ip-tv.dev/images/epg/1121.png?v1743767066" , Movistar Formula 1
+#EXTGRP:Спорт
+http://ru.seetv.cc/play/1121/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xsky-sport-bl1" tvg-name="Sky Sport Bundesliga HD" tvg-logo="https://ip-tv.dev/images/ico/sky-sport-bl1.png" , Sky Sport Bundesliga HD
+#EXTGRP:Спорт
+http://ru.seetv.cc/play/836/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xcnn" tvg-name="CNN" tvg-logo="https://ip-tv.dev/epg/icon/cnn.png"  tvg-rec="5" timeshift="5", CNN
+#EXTGRP:Новости
+http://ru.seetv.cc/play/104/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xcnbc-europe" tvg-name="CNBC" tvg-logo="https://ip-tv.dev/images/ico/cnbc.png" , CNBC
+#EXTGRP:Новости
+http://ru.seetv.cc/play/660/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xeuronews-en" tvg-name="Euronews EN" tvg-logo="https://ip-tv.dev/images/ico/euronews-en.png"  tvg-rec="5" timeshift="5", Euronews EN
+#EXTGRP:Новости
+http://ru.seetv.cc/play/17/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xbloomberg" tvg-name="Bloomberg" tvg-logo="https://ip-tv.dev/images/ico/bloomberg.png" , Bloomberg
+#EXTGRP:Новости
+http://ru.seetv.cc/play/2645/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xsky-news-uk" tvg-name="Sky News [UK]" tvg-logo="https://ip-tv.dev/images/epg/1890.png?v1748035814" , Sky News [UK]
+#EXTGRP:Новости
+http://ru.seetv.cc/play/1890/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xbloomberg" tvg-name="Bloomberg TV Live" tvg-logo="https://ip-tv.dev/images/epg/1891.png?v1748035922" , Bloomberg TV Live
+#EXTGRP:Новости
+http://ru.seetv.cc/play/1891/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xfox-news-us" tvg-name="Fox News" tvg-logo="https://ip-tv.dev/images/ico/foxnews.png" , Fox News
+#EXTGRP:Новости
+http://ru.seetv.cc/play/6077/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="XCartoon.Network.Canada.-.East.ca" tvg-name="Cartoon Network", Cartoon Network
 #EXTGRP:Канада
-http://ru.seetv.cc/play/1607/983F158AABB587A/mpegts
+http://ru.seetv.cc/play/1607/983F158AABB587A/video.m3u8
 #EXTINF:0 tvg-name="Adult Swim", Adult Swim
 #EXTGRP:Канада
-http://ru.seetv.cc/play/1618/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Disney Channel", Disney Channel
+http://ru.seetv.cc/play/1618/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="XDisney.Channel.Canada.-.East.ca" tvg-name="Disney Channel", Disney Channel
 #EXTGRP:Канада
-http://ru.seetv.cc/play/1619/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Treehouse", Treehouse
+http://ru.seetv.cc/play/1619/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="XTreehouse.ca" tvg-name="Treehouse", Treehouse
 #EXTGRP:Канада
-http://ru.seetv.cc/play/1622/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="DAZN 1 DE", DAZN 1 DE
-#EXTGRP:Спорт
-http://ru.seetv.cc/play/803/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="DAZN 2 DE", DAZN 2 DE
-#EXTGRP:Спорт
-http://ru.seetv.cc/play/809/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Movistar Formula 1", Movistar Formula 1
-#EXTGRP:Спорт
-http://ru.seetv.cc/play/1121/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Sky Sport Bundesliga HD", Sky Sport Bundesliga HD
-#EXTGRP:Спорт
-http://ru.seetv.cc/play/836/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="CNN", CNN
-#EXTGRP:Новости
-http://ru.seetv.cc/play/104/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="CNBC", CNBC
-#EXTGRP:Новости
-http://ru.seetv.cc/play/660/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Euronews EN", Euronews EN
-#EXTGRP:Новости
-http://ru.seetv.cc/play/17/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Bloomberg", Bloomberg
-#EXTGRP:Новости
-http://ru.seetv.cc/play/2645/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Sky News [UK]", Sky News [UK]
-#EXTGRP:Новости
-http://ru.seetv.cc/play/1890/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Bloomberg TV Live", Bloomberg TV Live
-#EXTGRP:Новости
-http://ru.seetv.cc/play/1891/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Fox News", Fox News
-#EXTGRP:Новости
-http://ru.seetv.cc/play/6077/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Blue Hustler TV", Blue Hustler TV
+http://ru.seetv.cc/play/1622/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xblue-hustler" tvg-name="Blue Hustler TV" tvg-logo="https://ip-tv.dev/epg/icon/blue-hustler.png"  tvg-rec="5" timeshift="5", Blue Hustler TV
 #EXTGRP:Для взрослых
-http://ru.seetv.cc/play/107/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Hustler TV", Hustler TV
+http://ru.seetv.cc/play/107/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xhustler-hd" tvg-name="Hustler TV" tvg-logo="https://ip-tv.dev/epg/icon/hustler-hd.png"  tvg-rec="5" timeshift="5", Hustler TV
 #EXTGRP:Для взрослых
-http://ru.seetv.cc/play/592/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Playboy", Playboy
+http://ru.seetv.cc/play/592/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xplayboy-tv" tvg-name="Playboy" tvg-logo="https://ip-tv.dev/epg/icon/playboy-tv.png"  tvg-rec="5" timeshift="5", Playboy
 #EXTGRP:Для взрослых
-http://ru.seetv.cc/play/242/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Eroxxx HD", Eroxxx HD
+http://ru.seetv.cc/play/242/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xeroxxxhd" tvg-name="Eroxxx HD" tvg-logo="https://ip-tv.dev/images/ico/eroxxxhd.png"  tvg-rec="5" timeshift="5", Eroxxx HD
 #EXTGRP:Для взрослых
-http://ru.seetv.cc/play/596/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Brazzers TV Europe", Brazzers TV Europe
+http://ru.seetv.cc/play/596/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xbrazzers-tv-europe" tvg-name="Brazzers TV Europe" tvg-logo="https://ip-tv.dev/epg/icon/brazzers.png"  tvg-rec="5" timeshift="5", Brazzers TV Europe
 #EXTGRP:Для взрослых
-http://ru.seetv.cc/play/76/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Evil Angel HD", Evil Angel HD
+http://ru.seetv.cc/play/76/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Evil Angel HD" tvg-logo="https://ip-tv.dev/images/ico/EvilAngel.png" , Evil Angel HD
 #EXTGRP:Для взрослых
-http://ru.seetv.cc/play/6891/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Barely Legal", Barely Legal
+http://ru.seetv.cc/play/6891/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xbarely-legal" tvg-name="Barely Legal" tvg-logo="https://ip-tv.dev/epg/icon/barely-legal.png"  tvg-rec="5" timeshift="5", Barely Legal
 #EXTGRP:Для взрослых
-http://ru.seetv.cc/play/4012/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Babes TV HD", Babes TV HD
+http://ru.seetv.cc/play/4012/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xbabes-tv" tvg-name="Babes TV HD" tvg-logo="https://ip-tv.dev/images/epg/990.png?v1743763833"  tvg-rec="5" timeshift="5", Babes TV HD
 #EXTGRP:Для взрослых
-http://ru.seetv.cc/play/990/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="PassionXXX", PassionXXX
+http://ru.seetv.cc/play/990/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xpassionxxx" tvg-name="PassionXXX" tvg-logo="https://ip-tv.dev/images/ico/passionxxx.png" , PassionXXX
 #EXTGRP:Для взрослых
-http://ru.seetv.cc/play/6869/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="PassionXXX 2", PassionXXX 2
+http://ru.seetv.cc/play/6869/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="PassionXXX 2" tvg-logo="https://ip-tv.dev/images/ico/passionxxx.png" , PassionXXX 2
 #EXTGRP:Для взрослых
-http://ru.seetv.cc/play/6883/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="PassionXXX Milf", PassionXXX Milf
+http://ru.seetv.cc/play/6883/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="PassionXXX Milf" tvg-logo="https://ip-tv.dev/images/ico/passionxxx.png" , PassionXXX Milf
 #EXTGRP:Для взрослых
-http://ru.seetv.cc/play/6884/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Pinko Club", Pinko Club
+http://ru.seetv.cc/play/6884/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Pinko Club" tvg-logo="https://ip-tv.dev/images/ico/pinko.png" , Pinko Club
 #EXTGRP:Для взрослых
-http://ru.seetv.cc/play/6867/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="CentoXCento", CentoXCento
+http://ru.seetv.cc/play/6867/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="CentoXCento" tvg-logo="https://ip-tv.dev/images/ico/centocento.png" , CentoXCento
 #EXTGRP:Для взрослых
-http://ru.seetv.cc/play/6868/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Olala", Olala
+http://ru.seetv.cc/play/6868/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xo-la-la" tvg-name="Olala" tvg-logo="https://ip-tv.dev/images/ico/o-la-la.png" , Olala
 #EXTGRP:Для взрослых
-http://ru.seetv.cc/play/103/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Vivid Red HD", Vivid Red HD
+http://ru.seetv.cc/play/103/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xvivid-red" tvg-name="Vivid Red HD" tvg-logo="https://ip-tv.dev/images/ico/vivid-red.png"  tvg-rec="5" timeshift="5", Vivid Red HD
 #EXTGRP:Для взрослых
-http://ru.seetv.cc/play/1766/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="XYPlus HD", XYPlus HD
+http://ru.seetv.cc/play/1766/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="XYPlus HD" tvg-logo="https://ip-tv.dev/images/ico/xxplus.png" , XYPlus HD
 #EXTGRP:Для взрослых
-http://ru.seetv.cc/play/6870/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="XYMax HD", XYMax HD
+http://ru.seetv.cc/play/6870/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="XYMax HD" tvg-logo="https://ip-tv.dev/images/ico/xxmax.png" , XYMax HD
 #EXTGRP:Для взрослых
-http://ru.seetv.cc/play/6871/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="XYMix HD", XYMix HD
+http://ru.seetv.cc/play/6871/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="XYMix HD" tvg-logo="https://ip-tv.dev/images/ico/xxmix.png" , XYMix HD
 #EXTGRP:Для взрослых
-http://ru.seetv.cc/play/6872/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Dorcel HD", Dorcel HD
+http://ru.seetv.cc/play/6872/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xdorcel" tvg-name="Dorcel HD" tvg-logo="https://ip-tv.dev/images/ico/dorcel.png" , Dorcel HD
 #EXTGRP:Для взрослых
-http://ru.seetv.cc/play/6879/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Red Lips", Red Lips
+http://ru.seetv.cc/play/6879/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xredlips" tvg-name="Red Lips" tvg-logo="https://ip-tv.dev/images/ico/redlips.png"  tvg-rec="5" timeshift="5", Red Lips
 #EXTGRP:Для взрослых
-http://ru.seetv.cc/play/290/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Private TV", Private TV
+http://ru.seetv.cc/play/290/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xprivate-tv" tvg-name="Private TV" tvg-logo="https://ip-tv.dev/images/ico/private-tv.png" , Private TV
 #EXTGRP:Для взрослых
-http://ru.seetv.cc/play/793/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Русская Ночь", Русская Ночь
+http://ru.seetv.cc/play/793/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xrusskaya-noch" tvg-name="Русская Ночь" tvg-logo="https://ip-tv.dev/epg/icon/russkaya-noch.png"  tvg-rec="5" timeshift="5", Русская Ночь
 #EXTGRP:Для взрослых
-http://ru.seetv.cc/play/132/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Exxxotica HD", Exxxotica HD
+http://ru.seetv.cc/play/132/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xexxxotica" tvg-name="Exxxotica HD" tvg-logo="https://ip-tv.dev/images/ico/exotica.png"  tvg-rec="5" timeshift="5", Exxxotica HD
 #EXTGRP:Для взрослых
-http://ru.seetv.cc/play/611/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Шелк", Шелк
+http://ru.seetv.cc/play/611/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xsholk" tvg-name="Шелк" tvg-logo="https://ip-tv.dev/images/ico/sholk.png" , Шелк
 #EXTGRP:Для взрослых
-http://ru.seetv.cc/play/7310/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Redlight HD", Redlight HD
+http://ru.seetv.cc/play/7310/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xredlight-hd" tvg-name="Redlight HD" tvg-logo="https://ip-tv.dev/images/ico/redlight-hd.png"  tvg-rec="5" timeshift="5", Redlight HD
 #EXTGRP:Для взрослых
-http://ru.seetv.cc/play/594/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Penthouse HD", Penthouse HD
+http://ru.seetv.cc/play/594/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xpenthouse-hd" tvg-name="Penthouse HD" tvg-logo="https://ip-tv.dev/images/ico/penthouse-hd.png"  tvg-rec="5" timeshift="5", Penthouse HD
 #EXTGRP:Для взрослых
-http://ru.seetv.cc/play/1497/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Penthouse Quickies HD", Penthouse Quickies HD
+http://ru.seetv.cc/play/1497/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xpenthouse-quickies" tvg-name="Penthouse Quickies HD" tvg-logo="https://ip-tv.dev/images/ico/penthouse-quickies.png" , Penthouse Quickies HD
 #EXTGRP:Для взрослых
-http://ru.seetv.cc/play/6881/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="ОХ-АХ HD", ОХ-АХ HD
+http://ru.seetv.cc/play/6881/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="ОХ-АХ HD" tvg-logo="https://ip-tv.dev/images/epg/1767.png?v1743763887" , ОХ-АХ HD
 #EXTGRP:Для взрослых
-http://ru.seetv.cc/play/1767/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Penthouse Gold HD", Penthouse Gold HD
+http://ru.seetv.cc/play/1767/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xpenthouse-gold" tvg-name="Penthouse Gold HD" tvg-logo="https://ip-tv.dev/images/ico/penthouse-gold.png" , Penthouse Gold HD
 #EXTGRP:Для взрослых
-http://ru.seetv.cc/play/6880/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Penthouse Reality TV", Penthouse Reality TV
+http://ru.seetv.cc/play/6880/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Penthouse Reality TV" tvg-logo="https://ip-tv.dev/images/epg/8074.png?v1743763915" , Penthouse Reality TV
 #EXTGRP:Для взрослых
-http://ru.seetv.cc/play/8074/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="OLERO Babes", OLERO Babes
+http://ru.seetv.cc/play/8074/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="OLERO Babes" tvg-logo="https://ip-tv.dev/images/epg/1768.png?v1743763945" , OLERO Babes
 #EXTGRP:Для взрослых
-http://ru.seetv.cc/play/1768/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Eromania 4K", Eromania 4K
+http://ru.seetv.cc/play/1768/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xeromania4k" tvg-name="Eromania 4K" tvg-logo="https://ip-tv.dev/images/ico/eromania4k.png" , Eromania 4K
 #EXTGRP:Для взрослых
-http://ru.seetv.cc/play/1703/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Kinoshka Adult HD", Kinoshka Adult HD
+http://ru.seetv.cc/play/1703/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X9997" tvg-name="Kinoshka Adult HD" tvg-logo="https://ip-tv.dev/images/ico/kinoshka-adult.png"  tvg-rec="5" timeshift="5", Kinoshka Adult HD
 #EXTGRP:Для взрослых
-http://ru.seetv.cc/play/9997/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="BCU Charm HD", BCU Charm HD
+http://ru.seetv.cc/play/9997/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xbcu-charm" tvg-name="BCU Charm HD" tvg-logo="https://ip-tv.dev/images/ico/bcu-charm.png" , BCU Charm HD
 #EXTGRP:Для взрослых
-http://ru.seetv.cc/play/7141/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Liberty Эротика HD", Liberty Эротика HD
+http://ru.seetv.cc/play/7141/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xliberty-erotika" tvg-name="Liberty Эротика HD" tvg-logo="https://ip-tv.dev/images/ico/liberty/liberty-erotika.png" , Liberty Эротика HD
 #EXTGRP:Для взрослых
-http://ru.seetv.cc/play/7080/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="YOSSO TV SEXY", YOSSO TV SEXY
+http://ru.seetv.cc/play/7080/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="Xyosso-sexy" tvg-name="YOSSO TV SEXY" tvg-logo="https://ip-tv.dev/images/ico/yosso-sexy.png"  tvg-rec="5" timeshift="5", YOSSO TV SEXY
 #EXTGRP:Для взрослых
-http://ru.seetv.cc/play/8774/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="KBC+100500 (18+)", KBC+100500 (18+)
+http://ru.seetv.cc/play/8774/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-id="X42052" tvg-name="KBC+100500 (18+)" tvg-logo="https://ip-tv.dev/images/ico/42052-65d5e628a395c.png"  tvg-rec="5" timeshift="5", KBC+100500 (18+)
 #EXTGRP:Для взрослых
-http://ru.seetv.cc/play/8829/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="CineManExExEx", CineManExExEx
+http://ru.seetv.cc/play/8829/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="CineManExExEx" tvg-logo="https://ip-tv.dev/images/ico/CineManExExEx.png" , CineManExExEx
 #EXTGRP:Для взрослых
-http://ru.seetv.cc/play/13020/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="CineManExExEx TWO", CineManExExEx TWO
+http://ru.seetv.cc/play/13020/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="CineManExExEx TWO" tvg-logo="https://ip-tv.dev/images/ico/CineManExExEx2.png" , CineManExExEx TWO
 #EXTGRP:Для взрослых
-http://ru.seetv.cc/play/13021/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Clarity4K Angel XXX", Clarity4K Angel XXX
+http://ru.seetv.cc/play/13021/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Clarity4K Angel XXX" tvg-logo="https://ip-tv.dev/images/epg/4607.png?v1743764101" , Clarity4K Angel XXX
 #EXTGRP:Для взрослых
-http://ru.seetv.cc/play/4607/983F158AABB587A/mpegts
-#EXTINF:0 tvg-name="Beate Uhse", Beate Uhse
+http://ru.seetv.cc/play/4607/983F158AABB587A/video.m3u8
+#EXTINF:0 tvg-name="Beate Uhse" tvg-logo="https://ip-tv.dev/images/epg/685.jpg?v1743764064" , Beate Uhse
 #EXTGRP:Для взрослых
-http://ru.seetv.cc/play/685/983F158AABB587A/mpegts
+http://ru.seetv.cc/play/685/983F158AABB587A/video.m3u8
