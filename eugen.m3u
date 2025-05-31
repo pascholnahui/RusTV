@@ -95,6 +95,162 @@ https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
 #EXTGRP:Германия
 https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
 
+#EXTINF:0 tvg-id="DE: Kabel Eins Doku" tvg-name="Kabel Eins Doku HD" tvg-logo="https://ip-tv.dev/images/epg/951.png?v1743759133"  tvg-rec="5" timeshift="5", Kabel Eins Doku HD
+#EXTGRP:Германия
+http://ru.seetv.cc/play/951/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="DE: Sky Replay" tvg-name="Sky Replay" tvg-logo="https://ip-tv.dev/images/epg/5136.png?v1743758530"  tvg-rec="5" timeshift="5", Sky Replay
+#EXTGRP:Германия
+http://ru.seetv.cc/play/5136/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="DE: Sky One" tvg-name="Sky One HD" tvg-logo="https://ip-tv.dev/images/epg/5133.png?v1743758569"  tvg-rec="5" timeshift="5", Sky One HD
+#EXTGRP:Германия
+http://ru.seetv.cc/play/5133/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="DE: Sky Showcase" tvg-name="Sky Showcase HD" tvg-logo="https://ip-tv.dev/images/epg/831.png?v1743760999"  tvg-rec="5" timeshift="5", Sky Showcase HD
+#EXTGRP:Германия
+http://ru.seetv.cc/play/831/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="DE: Sky Nature" tvg-name="Sky Nature" tvg-logo="https://ip-tv.dev/images/epg/748.png?v1743758587"  tvg-rec="5" timeshift="5", Sky Nature
+#EXTGRP:Германия
+http://ru.seetv.cc/play/748/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="DE: Sky Documentaries" tvg-name="Sky Documentaries" tvg-logo="https://ip-tv.dev/images/epg/750.png?v1743758578"  tvg-rec="5" timeshift="5", Sky Documentaries
+#EXTGRP:Германия
+http://ru.seetv.cc/play/750/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="DE: Sky Cinema Premiere" tvg-name="Sky Cinema Premieren HD" tvg-logo="https://ip-tv.dev/images/epg/5125.png?v1743758627"  tvg-rec="5" timeshift="5", Sky Cinema Premieren HD
+#EXTGRP:Германия
+http://ru.seetv.cc/play/5125/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="DE: Sky Cinema Family" tvg-name="Sky Cinema Family HD" tvg-logo="https://ip-tv.dev/images/ico/sky-cinema-family.png"  tvg-rec="5" timeshift="5", Sky Cinema Family HD
+#EXTGRP:Германия
+http://ru.seetv.cc/play/5101/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="DE: Sky Cinema Action" tvg-name="Sky Cinema Action HD" tvg-logo="https://ip-tv.dev/images/ico/sky-cinema-action.png"  tvg-rec="5" timeshift="5", Sky Cinema Action HD
+#EXTGRP:Германия
+http://ru.seetv.cc/play/844/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="DE: Sky Cinema Classics" tvg-name="Sky Cinema Classics HD" tvg-logo="https://ip-tv.dev/images/ico/sky-cinema-classics.png"  tvg-rec="5" timeshift="5", Sky Cinema Classics HD
+#EXTGRP:Германия
+http://ru.seetv.cc/play/847/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="DE: Sky Cinema Highlights" tvg-name="Sky Cinema Highlights" tvg-logo="https://ip-tv.dev/images/epg/949.png?v1743758674"  tvg-rec="5" timeshift="5", Sky Cinema Highlights
+#EXTGRP:Германия
+http://ru.seetv.cc/play/949/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="DE: Sky Atlantic" tvg-name="Sky Atlantic HD DE" tvg-logo="https://ip-tv.dev/images/epg/918.png?v1743758700"  tvg-rec="5" timeshift="5", Sky Atlantic HD DE
+#EXTGRP:Германия
+http://ru.seetv.cc/play/918/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="DE: Comedy Central" tvg-name="Comedy Central HD DE" tvg-logo="https://ip-tv.dev/images/epg/5138.png?v1743758710"  tvg-rec="5" timeshift="5", Comedy Central HD DE
+#EXTGRP:Германия
+http://ru.seetv.cc/play/5138/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="DE: Universal TV" tvg-name="Universal TV HD DE" tvg-logo="https://ip-tv.dev/images/epg/599.png?v1743758734"  tvg-rec="5" timeshift="5", Universal TV HD DE
+#EXTGRP:Германия
+http://ru.seetv.cc/play/599/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="DE: SyFy" tvg-name="Syfy HD DE" tvg-logo="https://ip-tv.dev/images/epg/917.png?v1743758759"  tvg-rec="5" timeshift="5", Syfy HD DE
+#EXTGRP:Германия
+http://ru.seetv.cc/play/917/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="DE: Warner TV Serie" tvg-name="Warner TV Serie HD" tvg-logo="https://ip-tv.dev/images/epg/5135.png?v1743758790"  tvg-rec="5" timeshift="5", Warner TV Serie HD
+#EXTGRP:Германия
+http://ru.seetv.cc/play/5135/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="DE: Warner TV Comedy" tvg-name="Warner TV Comedy HD" tvg-logo="https://ip-tv.dev/images/epg/5006.png?v1743758801"  tvg-rec="5" timeshift="5", Warner TV Comedy HD
+#EXTGRP:Германия
+http://ru.seetv.cc/play/1816/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="DE: Warner TV Film" tvg-name="Warner TV Film HD" tvg-logo="https://ip-tv.dev/images/epg/821.png?v1743758815"  tvg-rec="5" timeshift="5", Warner TV Film HD
+#EXTGRP:Германия
+http://ru.seetv.cc/play/821/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="DE: GEO" tvg-name="Geo Television HD" tvg-logo="https://ip-tv.dev/images/epg/1005.png?v1743759039" , Geo Television HD
+#EXTGRP:Германия
+http://ru.seetv.cc/play/1005/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="DE: Discovery" tvg-name="Discovery HD DE" tvg-logo="https://ip-tv.dev/images/epg/5140.png?v1743759050"  tvg-rec="5" timeshift="5", Discovery HD DE
+#EXTGRP:Германия
+http://ru.seetv.cc/play/5140/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="DE: History" tvg-name="History HD DE" tvg-logo="https://ip-tv.dev/images/epg/5137.png?v1743759086"  tvg-rec="5" timeshift="5", History HD DE
+#EXTGRP:Германия
+http://ru.seetv.cc/play/5137/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="X76694" tvg-name="NOW HD" tvg-logo="https://ip-tv.dev/images/epg/1004.jpg?v1743761066"  tvg-rec="5" timeshift="5", NOW HD
+#EXTGRP:Германия
+http://ru.seetv.cc/play/1004/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="DE: Sky Krimi" tvg-name="Sky Krimi HD" tvg-logo="https://ip-tv.dev/images/epg/5126.png?v1743758613"  tvg-rec="5" timeshift="5", Sky Krimi HD
+#EXTGRP:Германия
+http://ru.seetv.cc/play/5126/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="DE: Sky Crime" tvg-name="Sky Crime" tvg-logo="https://ip-tv.dev/images/epg/747.png?v1743758547"  tvg-rec="5" timeshift="5", Sky Crime
+#EXTGRP:Германия
+http://ru.seetv.cc/play/747/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="DE: TLC" tvg-name="TLC HD" tvg-logo="https://ip-tv.dev/images/epg/854.png?v1743759121"  tvg-rec="5" timeshift="5", TLC HD
+#EXTGRP:Германия
+http://ru.seetv.cc/play/854/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-name="One Terra HD" tvg-logo="https://ip-tv.dev/images/epg/855.png?v1743761114" , One Terra HD
+#EXTGRP:Германия
+http://ru.seetv.cc/play/855/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-name="Xplore HD" tvg-logo="https://ip-tv.dev/images/epg/857.png?v1743761165" , Xplore HD
+#EXTGRP:Германия
+http://ru.seetv.cc/play/857/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="X76767" tvg-name="Toggo HD" tvg-logo="https://ip-tv.dev/images/epg/829.png?v1743760929"  tvg-rec="5" timeshift="5", Toggo HD
+#EXTGRP:Германия
+http://ru.seetv.cc/play/829/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="DE: TOGGO plus" tvg-name="Toggo Plus HD" tvg-logo="https://ip-tv.dev/images/epg/1007.png?v1743759151"  tvg-rec="5" timeshift="5", Toggo Plus HD
+#EXTGRP:Германия
+http://ru.seetv.cc/play/1007/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="DE: Nicktoons" tvg-name="Nicktoons" tvg-logo="https://ip-tv.dev/images/epg/681.png?v1743759183"  tvg-rec="5" timeshift="5", Nicktoons
+#EXTGRP:Германия
+http://ru.seetv.cc/play/681/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="X197540" tvg-name="Cartoonito" tvg-logo="https://ip-tv.dev/images/epg/682.png?v1743759164"  tvg-rec="5" timeshift="5", Cartoonito
+#EXTGRP:Германия
+http://ru.seetv.cc/play/682/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="DE: Cartoon Network" tvg-name="Cartoon Network DE" tvg-logo="https://ip-tv.dev/images/epg/5104.png?v1743759200"  tvg-rec="5" timeshift="5", Cartoon Network DE
+#EXTGRP:Германия
+http://ru.seetv.cc/play/5104/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="DE: Disney Channel" tvg-name="Disney HD DE" tvg-logo="https://ip-tv.dev/images/epg/819.png?v1743759238"  tvg-rec="5" timeshift="5", Disney HD DE
+#EXTGRP:Германия
+http://ru.seetv.cc/play/819/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="X76615" tvg-name="Jukebox" tvg-logo="https://ip-tv.dev/images/epg/684.png?v1743759210"  tvg-rec="5" timeshift="5", Jukebox
+#EXTGRP:Германия
+http://ru.seetv.cc/play/684/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="DE: 13th Street" tvg-name="13th Street" tvg-logo="https://ip-tv.dev/images/epg/683.png?v1743759249"  tvg-rec="5" timeshift="5", 13th Street
+#EXTGRP:Германия
+http://ru.seetv.cc/play/683/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="DE: Romance TV" tvg-name="Romance TV DE" tvg-logo="https://ip-tv.dev/images/epg/5131.png?v1743759550"  tvg-rec="5" timeshift="5", Romance TV DE
+#EXTGRP:Германия
+http://ru.seetv.cc/play/5131/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-name="SERIEN + HD" tvg-logo="https://ip-tv.dev/images/epg/853.png?v1743761303" , SERIEN + HD
+#EXTGRP:Германия
+http://ru.seetv.cc/play/853/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-name="Club 3", Club 3
+#EXTGRP:Германия
+http://ru.seetv.cc/play/5124/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="DE: DMAX" tvg-name="DMAX HD DE" tvg-logo="https://ip-tv.dev/images/epg/920.png?v1743759568"  tvg-rec="5" timeshift="5", DMAX HD DE
+#EXTGRP:Германия
+http://ru.seetv.cc/play/920/983F158AABB587A/video.m3u8
+
 #EXTINF:0 tvg-id="DE: WELT" tvg-name="WELT HD DE" tvg-logo="https://ip-tv.dev/images/epg/5139.png?v1743759476"  tvg-rec="5" timeshift="5", WELT HD DE
 #EXTGRP:Германия
 http://ru.seetv.cc/play/5139/983F158AABB587A/video.m3u8
@@ -114,14 +270,6 @@ http://ru.seetv.cc/play/817/983F158AABB587A/video.m3u8
 #EXTINF:-1 tvg-name="DE: ARD alpha" tvg-id="DE: ARD alpha" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png",ARD-alpha
 #EXTGRP:Германия
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
-
-#EXTINF:0 tvg-id="DE: RTL" tvg-name="RTL UHD" tvg-logo="https://ip-tv.dev/images/ico/de/rtl-de.png" , RTL UHD
-#EXTGRP:Германия
-http://ru.seetv.cc/play/950/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-name="ProSieben Sat.1 UHD" tvg-logo="https://ip-tv.dev/images/epg/852.png?v1743761237" , ProSieben Sat.1 UHD
-#EXTGRP:Германия
-http://ru.seetv.cc/play/852/983F158AABB587A/video.m3u8
 
 #EXTINF:0 tvg-id="DE: SIXX" tvg-name="SIXX HD DE" tvg-logo="https://ip-tv.dev/images/epg/810.png?v1743759359"  tvg-rec="5" timeshift="5", SIXX HD DE
 #EXTGRP:Германия
@@ -155,9 +303,85 @@ http://ru.seetv.cc/play/860/983F158AABB587A/video.m3u8
 #EXTGRP:Германия
 http://ru.seetv.cc/play/940/983F158AABB587A/video.m3u8
 
-#EXTINF:0 tvg-id="DE: Kabel Eins Doku" tvg-name="Kabel Eins Doku HD" tvg-logo="https://ip-tv.dev/images/epg/951.png?v1743759133"  tvg-rec="5" timeshift="5", Kabel Eins Doku HD
+#EXTINF:0 tvg-id="DE: SAT.1 emotions" tvg-name="SAT.1 emotions HD" tvg-logo="https://ip-tv.dev/images/epg/842.png?v1743758558"  tvg-rec="5" timeshift="5", SAT.1 emotions HD
 #EXTGRP:Германия
-http://ru.seetv.cc/play/951/983F158AABB587A/video.m3u8
+http://ru.seetv.cc/play/842/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="DE: VOXup" tvg-name="VOX Up HD" tvg-logo="https://ip-tv.dev/images/epg/1006.png?v1743758779"  tvg-rec="5" timeshift="5", VOX Up HD
+#EXTGRP:Германия
+http://ru.seetv.cc/play/1006/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="X76794" tvg-name="Bibel TV HD" tvg-logo="https://ip-tv.dev/images/epg/947.png?v1743759682"  tvg-rec="5" timeshift="5", Bibel TV HD
+#EXTGRP:Германия
+http://ru.seetv.cc/play/947/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-name="Aristo TV" tvg-logo="https://ip-tv.dev/images/epg/946.png?v1743761361" , Aristo TV
+#EXTGRP:Германия
+http://ru.seetv.cc/play/946/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="DE: ANIXE Serie" tvg-name="Anixe HD DE" tvg-logo="https://ip-tv.dev/images/epg/830.png?v1743759758"  tvg-rec="5" timeshift="5", Anixe HD DE
+#EXTGRP:Германия
+http://ru.seetv.cc/play/830/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="DE: Motorvision" tvg-name="Motorvision TV DE" tvg-logo="https://ip-tv.dev/images/epg/828.png?v1743759768"  tvg-rec="5" timeshift="5", Motorvision TV DE
+#EXTGRP:Германия
+http://ru.seetv.cc/play/828/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="AT: ORF 1" tvg-name="ORF 1 HD " tvg-logo="https://ip-tv.dev/images/epg/858.png?v1743759785" , ORF 1 HD 
+#EXTGRP:Германия
+http://ru.seetv.cc/play/858/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="AT: ORF 2" tvg-name="ORF 2 HD" tvg-logo="https://ip-tv.dev/images/epg/827.png?v1743761403"  tvg-rec="5" timeshift="5", ORF 2 HD
+#EXTGRP:Германия
+http://ru.seetv.cc/play/827/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-name="ORF 2 EUROPE" tvg-logo="https://ip-tv.dev/images/epg/716.png?v1743761395" , ORF 2 EUROPE
+#EXTGRP:Германия
+http://ru.seetv.cc/play/716/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="AT: ORF 3" tvg-name="ORF 3 HD" tvg-logo="https://ip-tv.dev/images/epg/826.png?v1743761432"  tvg-rec="5" timeshift="5", ORF 3 HD
+#EXTGRP:Германия
+http://ru.seetv.cc/play/826/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-name="ORF HITRADIO OE3 VISUAL" tvg-logo="https://ip-tv.dev/images/epg/717.png?v1743761485" , ORF HITRADIO OE3 VISUAL
+#EXTGRP:Германия
+http://ru.seetv.cc/play/717/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="X76810" tvg-name="ATV DE" tvg-logo="https://ip-tv.dev/images/epg/825.png?v1743761514"  tvg-rec="5" timeshift="5", ATV DE
+#EXTGRP:Германия
+http://ru.seetv.cc/play/825/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="X76638" tvg-name="ATV 2 DE" tvg-logo="https://ip-tv.dev/images/epg/987.png?v1743761538"  tvg-rec="5" timeshift="5", ATV 2 DE
+#EXTGRP:Германия
+http://ru.seetv.cc/play/987/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="DE: KiKA" tvg-name="KIKA HD DE" tvg-logo="https://ip-tv.dev/images/epg/823.png?v1743759840"  tvg-rec="5" timeshift="5", KIKA HD DE
+#EXTGRP:Германия
+http://ru.seetv.cc/play/823/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="DE: Servus TV" tvg-name="ServusTV HD Oesterreich" tvg-logo="https://ip-tv.dev/images/epg/736.png?v1743760096" , ServusTV HD Oesterreich
+#EXTGRP:Германия
+http://ru.seetv.cc/play/736/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-name="Hip Trips HD" tvg-logo="https://ip-tv.dev/images/epg/723.png?v1743762257" , Hip Trips HD
+#EXTGRP:Германия
+http://ru.seetv.cc/play/723/983F158AABB587A/video.m3u8
+
+#EXTINF:-1 tvg-id="DE: Welt der Wunder" tvg-name="DE: Welt der Wunder" tvg-id="DE: Welt der Wunder" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/weltderwunder.png",Welt der Wunder
+#EXTGRP:Германия
+https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DE: Dokusat" tvg-name="Dokusat" tvg-id="Dokusat.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dokusat.png",Dokusat
+#EXTGRP:Германия
+https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
+
+#EXTINF:0 tvg-id="DE: RTL" tvg-name="RTL UHD" tvg-logo="https://ip-tv.dev/images/ico/de/rtl-de.png" , RTL UHD
+#EXTGRP:Германия
+http://ru.seetv.cc/play/950/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-name="ProSieben Sat.1 UHD" tvg-logo="https://ip-tv.dev/images/epg/852.png?v1743761237" , ProSieben Sat.1 UHD
+#EXTGRP:Германия
+http://ru.seetv.cc/play/852/983F158AABB587A/video.m3u8
 
 #EXTINF:0 tvg-id="DE: DAZN 1" tvg-name="DAZN 1 DE" tvg-logo="https://ip-tv.dev/images/epg/803.png?v1743766104" , DAZN 1 DE
 #EXTGRP:Германия
@@ -239,230 +463,6 @@ http://ru.seetv.cc/play/956/983F158AABB587A/video.m3u8
 #EXTGRP:Германия
 http://ru.seetv.cc/play/967/983F158AABB587A/video.m3u8
 
-#EXTINF:0 tvg-id="DE: Sky Replay" tvg-name="Sky Replay" tvg-logo="https://ip-tv.dev/images/epg/5136.png?v1743758530"  tvg-rec="5" timeshift="5", Sky Replay
-#EXTGRP:Германия
-http://ru.seetv.cc/play/5136/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="DE: SAT.1 emotions" tvg-name="SAT.1 emotions HD" tvg-logo="https://ip-tv.dev/images/epg/842.png?v1743758558"  tvg-rec="5" timeshift="5", SAT.1 emotions HD
-#EXTGRP:Германия
-http://ru.seetv.cc/play/842/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="DE: Sky Crime" tvg-name="Sky Crime" tvg-logo="https://ip-tv.dev/images/epg/747.png?v1743758547"  tvg-rec="5" timeshift="5", Sky Crime
-#EXTGRP:Германия
-http://ru.seetv.cc/play/747/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="DE: Sky One" tvg-name="Sky One HD" tvg-logo="https://ip-tv.dev/images/epg/5133.png?v1743758569"  tvg-rec="5" timeshift="5", Sky One HD
-#EXTGRP:Германия
-http://ru.seetv.cc/play/5133/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="DE: Sky Showcase" tvg-name="Sky Showcase HD" tvg-logo="https://ip-tv.dev/images/epg/831.png?v1743760999"  tvg-rec="5" timeshift="5", Sky Showcase HD
-#EXTGRP:Германия
-http://ru.seetv.cc/play/831/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="DE: Sky Nature" tvg-name="Sky Nature" tvg-logo="https://ip-tv.dev/images/epg/748.png?v1743758587"  tvg-rec="5" timeshift="5", Sky Nature
-#EXTGRP:Германия
-http://ru.seetv.cc/play/748/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="DE: Sky Documentaries" tvg-name="Sky Documentaries" tvg-logo="https://ip-tv.dev/images/epg/750.png?v1743758578"  tvg-rec="5" timeshift="5", Sky Documentaries
-#EXTGRP:Германия
-http://ru.seetv.cc/play/750/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="DE: Sky Krimi" tvg-name="Sky Krimi HD" tvg-logo="https://ip-tv.dev/images/epg/5126.png?v1743758613"  tvg-rec="5" timeshift="5", Sky Krimi HD
-#EXTGRP:Германия
-http://ru.seetv.cc/play/5126/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="DE: Sky Cinema Premiere" tvg-name="Sky Cinema Premieren HD" tvg-logo="https://ip-tv.dev/images/epg/5125.png?v1743758627"  tvg-rec="5" timeshift="5", Sky Cinema Premieren HD
-#EXTGRP:Германия
-http://ru.seetv.cc/play/5125/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="DE: Sky Cinema Family" tvg-name="Sky Cinema Family HD" tvg-logo="https://ip-tv.dev/images/ico/sky-cinema-family.png"  tvg-rec="5" timeshift="5", Sky Cinema Family HD
-#EXTGRP:Германия
-http://ru.seetv.cc/play/5101/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="DE: Sky Cinema Action" tvg-name="Sky Cinema Action HD" tvg-logo="https://ip-tv.dev/images/ico/sky-cinema-action.png"  tvg-rec="5" timeshift="5", Sky Cinema Action HD
-#EXTGRP:Германия
-http://ru.seetv.cc/play/844/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="DE: Sky Cinema Classics" tvg-name="Sky Cinema Classics HD" tvg-logo="https://ip-tv.dev/images/ico/sky-cinema-classics.png"  tvg-rec="5" timeshift="5", Sky Cinema Classics HD
-#EXTGRP:Германия
-http://ru.seetv.cc/play/847/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="DE: Sky Cinema Highlights" tvg-name="Sky Cinema Highlights" tvg-logo="https://ip-tv.dev/images/epg/949.png?v1743758674"  tvg-rec="5" timeshift="5", Sky Cinema Highlights
-#EXTGRP:Германия
-http://ru.seetv.cc/play/949/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="DE: Sky Atlantic" tvg-name="Sky Atlantic HD DE" tvg-logo="https://ip-tv.dev/images/epg/918.png?v1743758700"  tvg-rec="5" timeshift="5", Sky Atlantic HD DE
-#EXTGRP:Германия
-http://ru.seetv.cc/play/918/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="DE: Comedy Central" tvg-name="Comedy Central HD DE" tvg-logo="https://ip-tv.dev/images/epg/5138.png?v1743758710"  tvg-rec="5" timeshift="5", Comedy Central HD DE
-#EXTGRP:Германия
-http://ru.seetv.cc/play/5138/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="DE: Universal TV" tvg-name="Universal TV HD DE" tvg-logo="https://ip-tv.dev/images/epg/599.png?v1743758734"  tvg-rec="5" timeshift="5", Universal TV HD DE
-#EXTGRP:Германия
-http://ru.seetv.cc/play/599/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="X76694" tvg-name="NOW HD" tvg-logo="https://ip-tv.dev/images/epg/1004.jpg?v1743761066"  tvg-rec="5" timeshift="5", NOW HD
-#EXTGRP:Германия
-http://ru.seetv.cc/play/1004/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="DE: SyFy" tvg-name="Syfy HD DE" tvg-logo="https://ip-tv.dev/images/epg/917.png?v1743758759"  tvg-rec="5" timeshift="5", Syfy HD DE
-#EXTGRP:Германия
-http://ru.seetv.cc/play/917/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="DE: VOXup" tvg-name="VOX Up HD" tvg-logo="https://ip-tv.dev/images/epg/1006.png?v1743758779"  tvg-rec="5" timeshift="5", VOX Up HD
-#EXTGRP:Германия
-http://ru.seetv.cc/play/1006/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="DE: Warner TV Serie" tvg-name="Warner TV Serie HD" tvg-logo="https://ip-tv.dev/images/epg/5135.png?v1743758790"  tvg-rec="5" timeshift="5", Warner TV Serie HD
-#EXTGRP:Германия
-http://ru.seetv.cc/play/5135/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="DE: Warner TV Comedy" tvg-name="Warner TV Comedy HD" tvg-logo="https://ip-tv.dev/images/epg/5006.png?v1743758801"  tvg-rec="5" timeshift="5", Warner TV Comedy HD
-#EXTGRP:Германия
-http://ru.seetv.cc/play/1816/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="DE: Warner TV Film" tvg-name="Warner TV Film HD" tvg-logo="https://ip-tv.dev/images/epg/821.png?v1743758815"  tvg-rec="5" timeshift="5", Warner TV Film HD
-#EXTGRP:Германия
-http://ru.seetv.cc/play/821/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="DE: GEO" tvg-name="Geo Television HD" tvg-logo="https://ip-tv.dev/images/epg/1005.png?v1743759039" , Geo Television HD
-#EXTGRP:Германия
-http://ru.seetv.cc/play/1005/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="DE: Discovery" tvg-name="Discovery HD DE" tvg-logo="https://ip-tv.dev/images/epg/5140.png?v1743759050"  tvg-rec="5" timeshift="5", Discovery HD DE
-#EXTGRP:Германия
-http://ru.seetv.cc/play/5140/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="DE: History" tvg-name="History HD DE" tvg-logo="https://ip-tv.dev/images/epg/5137.png?v1743759086"  tvg-rec="5" timeshift="5", History HD DE
-#EXTGRP:Германия
-http://ru.seetv.cc/play/5137/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="DE: TLC" tvg-name="TLC HD" tvg-logo="https://ip-tv.dev/images/epg/854.png?v1743759121"  tvg-rec="5" timeshift="5", TLC HD
-#EXTGRP:Германия
-http://ru.seetv.cc/play/854/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-name="One Terra HD" tvg-logo="https://ip-tv.dev/images/epg/855.png?v1743761114" , One Terra HD
-#EXTGRP:Германия
-http://ru.seetv.cc/play/855/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-name="Xplore HD" tvg-logo="https://ip-tv.dev/images/epg/857.png?v1743761165" , Xplore HD
-#EXTGRP:Германия
-http://ru.seetv.cc/play/857/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="X76767" tvg-name="Toggo HD" tvg-logo="https://ip-tv.dev/images/epg/829.png?v1743760929"  tvg-rec="5" timeshift="5", Toggo HD
-#EXTGRP:Германия
-http://ru.seetv.cc/play/829/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="DE: TOGGO plus" tvg-name="Toggo Plus HD" tvg-logo="https://ip-tv.dev/images/epg/1007.png?v1743759151"  tvg-rec="5" timeshift="5", Toggo Plus HD
-#EXTGRP:Германия
-http://ru.seetv.cc/play/1007/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="DE: Nicktoons" tvg-name="Nicktoons" tvg-logo="https://ip-tv.dev/images/epg/681.png?v1743759183"  tvg-rec="5" timeshift="5", Nicktoons
-#EXTGRP:Германия
-http://ru.seetv.cc/play/681/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="X197540" tvg-name="Cartoonito" tvg-logo="https://ip-tv.dev/images/epg/682.png?v1743759164"  tvg-rec="5" timeshift="5", Cartoonito
-#EXTGRP:Германия
-http://ru.seetv.cc/play/682/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="DE: Cartoon Network" tvg-name="Cartoon Network DE" tvg-logo="https://ip-tv.dev/images/epg/5104.png?v1743759200"  tvg-rec="5" timeshift="5", Cartoon Network DE
-#EXTGRP:Германия
-http://ru.seetv.cc/play/5104/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="DE: Disney Channel" tvg-name="Disney HD DE" tvg-logo="https://ip-tv.dev/images/epg/819.png?v1743759238"  tvg-rec="5" timeshift="5", Disney HD DE
-#EXTGRP:Германия
-http://ru.seetv.cc/play/819/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="X76615" tvg-name="Jukebox" tvg-logo="https://ip-tv.dev/images/epg/684.png?v1743759210"  tvg-rec="5" timeshift="5", Jukebox
-#EXTGRP:Германия
-http://ru.seetv.cc/play/684/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="DE: 13th Street" tvg-name="13th Street" tvg-logo="https://ip-tv.dev/images/epg/683.png?v1743759249"  tvg-rec="5" timeshift="5", 13th Street
-#EXTGRP:Германия
-http://ru.seetv.cc/play/683/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="DE: Romance TV" tvg-name="Romance TV DE" tvg-logo="https://ip-tv.dev/images/epg/5131.png?v1743759550"  tvg-rec="5" timeshift="5", Romance TV DE
-#EXTGRP:Германия
-http://ru.seetv.cc/play/5131/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-name="SERIEN + HD" tvg-logo="https://ip-tv.dev/images/epg/853.png?v1743761303" , SERIEN + HD
-#EXTGRP:Германия
-http://ru.seetv.cc/play/853/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-name="Club 3", Club 3
-#EXTGRP:Германия
-http://ru.seetv.cc/play/5124/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="DE: DMAX" tvg-name="DMAX HD DE" tvg-logo="https://ip-tv.dev/images/epg/920.png?v1743759568"  tvg-rec="5" timeshift="5", DMAX HD DE
-#EXTGRP:Германия
-http://ru.seetv.cc/play/920/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="X76794" tvg-name="Bibel TV HD" tvg-logo="https://ip-tv.dev/images/epg/947.png?v1743759682"  tvg-rec="5" timeshift="5", Bibel TV HD
-#EXTGRP:Германия
-http://ru.seetv.cc/play/947/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-name="Aristo TV" tvg-logo="https://ip-tv.dev/images/epg/946.png?v1743761361" , Aristo TV
-#EXTGRP:Германия
-http://ru.seetv.cc/play/946/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="DE: ANIXE Serie" tvg-name="Anixe HD DE" tvg-logo="https://ip-tv.dev/images/epg/830.png?v1743759758"  tvg-rec="5" timeshift="5", Anixe HD DE
-#EXTGRP:Германия
-http://ru.seetv.cc/play/830/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="DE: Motorvision" tvg-name="Motorvision TV DE" tvg-logo="https://ip-tv.dev/images/epg/828.png?v1743759768"  tvg-rec="5" timeshift="5", Motorvision TV DE
-#EXTGRP:Германия
-http://ru.seetv.cc/play/828/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="AT: ORF 1" tvg-name="ORF 1 HD " tvg-logo="https://ip-tv.dev/images/epg/858.png?v1743759785" , ORF 1 HD 
-#EXTGRP:Германия
-http://ru.seetv.cc/play/858/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="AT: ORF 2" tvg-name="ORF 2 HD" tvg-logo="https://ip-tv.dev/images/epg/827.png?v1743761403"  tvg-rec="5" timeshift="5", ORF 2 HD
-#EXTGRP:Германия
-http://ru.seetv.cc/play/827/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-name="ORF 2 EUROPE" tvg-logo="https://ip-tv.dev/images/epg/716.png?v1743761395" , ORF 2 EUROPE
-#EXTGRP:Германия
-http://ru.seetv.cc/play/716/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="AT: ORF 3" tvg-name="ORF 3 HD" tvg-logo="https://ip-tv.dev/images/epg/826.png?v1743761432"  tvg-rec="5" timeshift="5", ORF 3 HD
-#EXTGRP:Германия
-http://ru.seetv.cc/play/826/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-name="ORF HITRADIO OE3 VISUAL" tvg-logo="https://ip-tv.dev/images/epg/717.png?v1743761485" , ORF HITRADIO OE3 VISUAL
-#EXTGRP:Германия
-http://ru.seetv.cc/play/717/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="X76810" tvg-name="ATV DE" tvg-logo="https://ip-tv.dev/images/epg/825.png?v1743761514"  tvg-rec="5" timeshift="5", ATV DE
-#EXTGRP:Германия
-http://ru.seetv.cc/play/825/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="X76638" tvg-name="ATV 2 DE" tvg-logo="https://ip-tv.dev/images/epg/987.png?v1743761538"  tvg-rec="5" timeshift="5", ATV 2 DE
-#EXTGRP:Германия
-http://ru.seetv.cc/play/987/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="DE: KiKA" tvg-name="KIKA HD DE" tvg-logo="https://ip-tv.dev/images/epg/823.png?v1743759840"  tvg-rec="5" timeshift="5", KIKA HD DE
-#EXTGRP:Германия
-http://ru.seetv.cc/play/823/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="DE: Servus TV" tvg-name="ServusTV HD Oesterreich" tvg-logo="https://ip-tv.dev/images/epg/736.png?v1743760096" , ServusTV HD Oesterreich
-#EXTGRP:Германия
-http://ru.seetv.cc/play/736/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-name="Hip Trips HD" tvg-logo="https://ip-tv.dev/images/epg/723.png?v1743762257" , Hip Trips HD
-#EXTGRP:Германия
-http://ru.seetv.cc/play/723/983F158AABB587A/video.m3u8
-
-#EXTINF:-1 tvg-id="DE: Welt der Wunder" tvg-name="DE: Welt der Wunder" tvg-id="DE: Welt der Wunder" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/weltderwunder.png",Welt der Wunder
-#EXTGRP:Германия
-https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DE: Dokusat" tvg-name="Dokusat" tvg-id="Dokusat.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dokusat.png",Dokusat
-#EXTGRP:Германия
-https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
-
 #EXTINF:0 tvg-name="rfo Regional Fernsehen Oberbayern HD" tvg-logo="https://ip-tv.dev/images/epg/699.png?v1743762291" , rfo Regional Fernsehen Oberbayern HD
 #EXTGRP:Германия
 http://ru.seetv.cc/play/699/983F158AABB587A/video.m3u8
@@ -483,7 +483,7 @@ http://ru.seetv.cc/play/840/983F158AABB587A/video.m3u8
 #EXTGRP:Германия
 http://ru.seetv.cc/play/746/983F158AABB587A/video.m3u8
 
-#EXTINF:0 tvg-id="X182674" tvg-name="DF1 HD" tvg-logo="https://ip-tv.dev/images/epg/948.png?v1743761637"  tvg-rec="5" timeshift="5", DF1 HD
+#EXTINF:0 tvg-id="DF1 HD" tvg-name="DF1 HD" tvg-logo="https://ip-tv.dev/images/epg/948.png?v1743761637"  tvg-rec="5" timeshift="5", DF1 HD
 #EXTGRP:Германия
 http://ru.seetv.cc/play/948/983F158AABB587A/video.m3u8
 
