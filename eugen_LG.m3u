@@ -8,30 +8,6 @@ http://pl.online24.pm/play/695/983F158AABB587A/video.m3u8
 #EXTGRP:Free_TV
 http://pl.online24.pm/play/811/983F158AABB587A/video.m3u8
 
-#EXTINF:0 tvg-id="DE: RTL" tvg-name="RTL HD DE" tvg-logo="https://ip-tv.dev/images/ico/de/rtl-de.png"  tvg-rec="5" timeshift="5", RTL HD DE
-#EXTGRP:Pay_TV
-http://pl.online24.pm/play/801/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="DE: SAT.1" tvg-name="Sat.1 HD DE" tvg-logo="https://ip-tv.dev/images/epg/806.png?v1743758238"  tvg-rec="5" timeshift="5", Sat.1 HD DE
-#EXTGRP:Pay_TV
-http://pl.online24.pm/play/806/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="DE: ProSieben" tvg-name="ProSieben HD DE" tvg-logo="https://ip-tv.dev/images/epg/807.png?v1743759465"  tvg-rec="5" timeshift="5", ProSieben HD DE
-#EXTGRP:Pay_TV
-http://pl.online24.pm/play/807/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="DE: RTL ZWEI" tvg-name="RTL Zwei HD" tvg-logo="https://ip-tv.dev/images/ico/de/rtl-zwei-de.png"  tvg-rec="5" timeshift="5", RTL Zwei HD
-#EXTGRP:Pay_TV
-http://pl.online24.pm/play/1008/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="DE: Kabel Eins" tvg-name="Kabel Eins HD" tvg-logo="https://ip-tv.dev/epg/icon/kabel-1.png"  tvg-rec="5" timeshift="5", Kabel Eins HD
-#EXTGRP:Pay_TV
-http://pl.online24.pm/play/808/983F158AABB587A/video.m3u8
-
-#EXTINF:0 tvg-id="DE: VOX" tvg-name="VOX HD DE" tvg-logo="https://ip-tv.dev/images/epg/813.png?v1743758768"  tvg-rec="5" timeshift="5", VOX HD DE
-#EXTGRP:Pay_TV
-http://pl.online24.pm/play/813/983F158AABB587A/video.m3u8
-
 #EXTINF:-1 tvg-name="DE: ARTE" tvg-id="DE: ARTE" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png",ARTE HD
 #EXTGRP:Free_TV
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
@@ -39,10 +15,6 @@ https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
 #EXTINF:-1 tvg-name="DE: 3sat" tvg-id="DE: 3sat" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png",3sat
 #EXTGRP:Free_TV
 http://pl.online24.pm/play/919/983F158AABB587A/video.m3u8
-
-#EXTINF:-1 tvg-name="DE: rbb Berlin" tvg-id="DE: rbb Berlin" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png",rbb Berlin HD
-#EXTGRP:Free_TV
-https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
 
 #EXTINF:-1 tvg-name="DE: NDR Niedersachsen" tvg-id="DE: NDR Niedersachsen" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png",NDR Niedersachsen HD
 #EXTGRP:Free_TV
@@ -95,6 +67,30 @@ http://pl.online24.pm/play/5005/983F158AABB587A/video.m3u8
 #EXTINF:-1 tvg-name="DE: SR" tvg-id="DE: SR" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/srhd.png",SR Fernsehen HD
 #EXTGRP:Free_TV
 http://pl.online24.pm/play/692/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="DE: RTL" tvg-name="RTL HD DE" tvg-logo="https://ip-tv.dev/images/ico/de/rtl-de.png"  tvg-rec="5" timeshift="5", RTL HD DE
+#EXTGRP:Pay_TV
+http://pl.online24.pm/play/801/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="DE: SAT.1" tvg-name="Sat.1 HD DE" tvg-logo="https://ip-tv.dev/images/epg/806.png?v1743758238"  tvg-rec="5" timeshift="5", Sat.1 HD DE
+#EXTGRP:Pay_TV
+http://pl.online24.pm/play/806/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="DE: ProSieben" tvg-name="ProSieben HD DE" tvg-logo="https://ip-tv.dev/images/epg/807.png?v1743759465"  tvg-rec="5" timeshift="5", ProSieben HD DE
+#EXTGRP:Pay_TV
+http://pl.online24.pm/play/807/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="DE: RTL ZWEI" tvg-name="RTL Zwei HD" tvg-logo="https://ip-tv.dev/images/ico/de/rtl-zwei-de.png"  tvg-rec="5" timeshift="5", RTL Zwei HD
+#EXTGRP:Pay_TV
+http://pl.online24.pm/play/1008/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="DE: Kabel Eins" tvg-name="Kabel Eins HD" tvg-logo="https://ip-tv.dev/epg/icon/kabel-1.png"  tvg-rec="5" timeshift="5", Kabel Eins HD
+#EXTGRP:Pay_TV
+http://pl.online24.pm/play/808/983F158AABB587A/video.m3u8
+
+#EXTINF:0 tvg-id="DE: VOX" tvg-name="VOX HD DE" tvg-logo="https://ip-tv.dev/images/epg/813.png?v1743758768"  tvg-rec="5" timeshift="5", VOX HD DE
+#EXTGRP:Pay_TV
+http://pl.online24.pm/play/813/983F158AABB587A/video.m3u8
 
 #EXTINF:0 tvg-id="DE: Kabel Eins Doku" tvg-name="Kabel Eins Doku HD" tvg-logo="https://ip-tv.dev/images/epg/951.png?v1743759133"  tvg-rec="5" timeshift="5", Kabel Eins Doku HD
 #EXTGRP:Pay_TV
